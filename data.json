@@ -1,0 +1,4245 @@
+{
+  "lessons": [
+    {
+      "id": "lesson1",
+      "title": "",
+      "titleFr": "Le thorax",
+      "titleEn": "",
+      "questions": [
+        {
+          "id": "q1",
+          "question": "",
+          "questionFr": "Le thorax :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "L'angle de Louis se trouve entre le corps et le processus xiphoïde",
+            "La tête de la 1ère côte est articulaire avec T1 et T2",
+            "Les muscles intercostaux internes sont des inspirateurs accessoires",
+            "La cavité thoracique est divisée en deux parties",
+            "La ponction pleurale doit se faire au bord supérieur de la côte"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "لأن الحزمة الوعائية العصبية (paquet vasculo-nerveux) الضلعية تمر بمحاذاة الحد السفلي للضلع، وبالتالي يجرى البزل البلوري عند الحد العلوي للضلع السفلي لتجنب إصابتها.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 27,
+          "lessonQuote": "Le paquet vasculo-nerveux intercostal chemine le long du bord inférieur de la côte, donc la ponction pleurale se fait au bord supérieur de la côte."
+        },
+        {
+          "id": "q10",
+          "question": "",
+          "questionFr": "Le thorax :\n1. Le rachis dorsal présente une courbure convexe en avant\n2. Le bord supérieur du sternum présente 2 incisures jugulaires\n3. La 5e côte s'articule avec le corps vertébral de T4\n4. La 6e côte s'articule avec le corps vertébral de T6\n5. La 6e côte s'articule avec le processus transverse de T6",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,4,5)",
+            "(4,5)",
+            "(2,3,4)",
+            "(3,4,5)",
+            "(2,4,5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "الضلع السادس يتمفصل مع جسم الفقرة T6 وكذلك مع النتوء المستعرض للفقرة T6.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 16,
+          "lessonQuote": "Deux processus transverses avec une fossette costale articulaire avec la tubérosité costale."
+        },
+        {
+          "id": "q28",
+          "question": "",
+          "questionFr": "Le thorax :\n1. La cyphose thoracique est une courbure concave en avant du rachis dorsal\n2. La tête occupe l'extrémité postérieure de la côte\n3. La 4ème côte s'articule avec les corps des vertèbres T4 et T5\n4. La 6ème côte s'articule avec les corps des vertèbres T5 et T6\n5. Le muscle intercostal interne est le plus profond",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2,3)",
+            "(2,4,5)",
+            "(1,2,4)",
+            "(1,3,5)",
+            "(1,4,5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 2,
+          "explanation": "الحداب الصدري هو انحناء مقعر للأمام، والرأس يحتل الطرف الخلفي للضلع، والضلع السادس يتمفصل مع جسمي الفقرتين T5 و T6.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 12,
+          "lessonQuote": "Le rachis dorsal présente une cyphose physiologique à concavité antérieure / L'extrémité postérieure de la côte comprend la tête, le col et le tubercule."
+        },
+        {
+          "id": "q46",
+          "question": "",
+          "questionFr": "Le thorax :\n1. Le bord latéral du sternum présente 7 incisures\n2. La 2ème côte présente le tubercule du muscle scalène antérieur\n3. La tête de la 1ère côte est articulaire avec T1 et T2\n4. Le muscle transverse du thorax est expirateur",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2)",
+            "(1,4)",
+            "(1,3)",
+            "(2,4)",
+            "(3,4)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "الحد الجانبي للقص يحتوي 7 ثلمات ضلعية، والعضلة المعترضة الصدرية خافضة للأضلاع وبالتالي هي عضلة زفيرية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 15,
+          "lessonQuote": "Le bord latéral du sternum présente 7 incisures costales / Le muscle transverse du thorax: Abaisseur des côtes, donc expirateur."
+        },
+        {
+          "id": "q64",
+          "question": "",
+          "questionFr": "Le thorax :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Le rachis dorsal est formé par 10 vertèbres thoraciques",
+            "La tête de la 1ère côte est articulaire avec T1 et T2",
+            "Les muscles intercostaux externes sont des expirateurs",
+            "Le paquet vasculo nerveux intercostal chemine le long du bord supérieur de la côte",
+            "La peau de la paroi postérieure est épaisse et riche en glandes sébacées"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "جلد الجدار الصدري الخلفي يتميز بسمكه ومقاومته وغناه بالغدد الدهنية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 17,
+          "lessonQuote": "La peau de la paroi postérieure du thorax est épaisse, résistante et riche en glandes sébacées."
+        },
+        {
+          "id": "q85",
+          "question": "",
+          "questionFr": "Concernant les muscles inspirateurs:",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "L'intercostal interne",
+            "Le triangulaire du sternum",
+            "L'intercostal externe",
+            "Le grand pectoral",
+            "Les muscles sous costaux"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 2,
+          "explanation": "العضلات بين الضلعية الخارجية (Muscles intercostaux externes) هي عضلات شهيقية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 27,
+          "lessonQuote": "Les muscles intercostaux externes sont des muscles inspirateurs."
+        },
+        {
+          "id": "q88",
+          "question": "",
+          "questionFr": "Cocher la ou les légendes justes :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Corps vertébral",
+            "Lame vertébrale",
+            "Pédicule vertébral",
+            "Apophyse transverse",
+            "Processus articulaire"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "جسم الفقرة الصدرية يمثل الجزء الأمامي والمحوري في رسم الفقرة.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Une vertèbre thoracique type comprend en avant le corps vertébral."
+        },
+        {
+          "id": "q89",
+          "question": "",
+          "questionFr": "Concernant l'espace intercostal ; cocher la ou les réponses justes",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Il est comblé par les muscles intercostaux",
+            "Il est comblé par les muscles surcostaux",
+            "Il livre passage aux vaisseaux et nerfs bronchiques",
+            "La ponction pleurale se fait au bord supérieur de la côte",
+            "La ponction pleurale se fait au bord inférieur de la côte"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "المسافة بين الضلعية تملؤها العضلات بين الضلعية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 27,
+          "lessonQuote": "L'espace intercostal est comblé par les muscles intercostaux."
+        },
+        {
+          "id": "q91",
+          "question": "",
+          "questionFr": "Concernant la ou les réponses justes : Concernant le sternum",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "C'est un os long",
+            "Ses bords latéraux donnent insertion aux muscles",
+            "Il forme la limite postérieure du thorax",
+            "Le manubrium sternal est articulaire avec la clavicule",
+            "Le processus xiphoïde est articulaire avec le corps sternal"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "قبضة القص (Le manubrium sternal) تتمفصل مع الترقوة عند الثلمة الترقوية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 14,
+          "lessonQuote": "Le manubrium sternal présente à son bord supérieur l'incisure claviculaire articulaire avec la clavicule."
+        },
+        {
+          "id": "q98",
+          "question": "",
+          "questionFr": "Le thorax :\n1. L'angle de Louise se situe entre le corps et l'appendice xiphoïde du sternum\n2. Le rachis dorsal présente une courbure convexe en avant\n3. La tête de la 11ème côte présente une seule surface articulaire\n4. Le muscle intercostal interne est expirateur\n5. Le paquet vasculo nerveux intercostal chemine le long du bord supérieur de la côte",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,3)",
+            "(4,5)",
+            "(2,4)",
+            "(3,4)",
+            "(3,5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "رأس الضلع 11 يحوي سفحاً مفصلياً واحداً، والعضلة بين الضلعية الداخلية عضلة زفيرية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 18,
+          "lessonQuote": "La tête des 11ème et 12ème côtes présente une seule surface articulaire / Le muscle intercostal interne est expirateur."
+        },
+        {
+          "id": "q117",
+          "question": "",
+          "questionFr": "Le thorax :\n1. L'angle de Louis se trouve entre le corps et le manubrium sternal\n2. La tête de la 1ère côte est articulaire avec T1 et T2\n3. Les muscles intercostaux externes sont des inspirateurs accessoires\n4. La ponction pleurale doit se faire au bord inférieur de la côte",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1-2)",
+            "(2-3)",
+            "(3-5)",
+            "(2-4)",
+            "(4-5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "زاوية لويس تقع بين جسم وقبضة القص (العبارة 2)، والعضلات بين الضلعية الخارجية هي عضلات شهيقية (العبارة 4).",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 14,
+          "lessonQuote": "L'angle manubrio-sternal (de Louis) entre le manubrium et le corps / Les muscles intercostaux externes sont inspirateurs."
+        }
+      ]
+    },
+    {
+      "id": "lesson2",
+      "title": "",
+      "titleFr": "Configuration extérieure du cœur",
+      "titleEn": "",
+      "questions": [
+        {
+          "id": "q2",
+          "question": "",
+          "questionFr": "Le cœur :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "La base du cœur est postérieure et gauche",
+            "Le segment atrial de la face diaphragmatique est formé par l'atrium droit",
+            "L'atrium gauche est ovoïde à grand axe vertical",
+            "Les artères graisseuses de Vieussens sont destinées aux parois du cœur",
+            "Le système modérateur-cardio est sympathique"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "الجزء الأذيني للوجه الحجابي للقلب ضيق ويتكون أساساً من الأذين الأيمن.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 15,
+          "lessonQuote": "Le segment atrial: Etroit, Formé essentiellement par l'atrium droit."
+        },
+        {
+          "id": "q11",
+          "question": "",
+          "questionFr": "La configuration extérieure du cœur :\n1. La face sterno-costale regarde en avant et à gauche\n2. Le segment atrial de la face diaphragmatique est représenté par les atriums droit et gauche\n3. Le segment ventriculaire de la face pulmonaire est représenté par le ventricule gauche\n4. Le bord gauche supérieur sépare les faces antérieure et latérale gauche",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,3)",
+            "(3,4)",
+            "(2,4)",
+            "(1,4)",
+            "(2,3)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "الجزء البطيني للوجه الرئوي يمثله البطين الأيسر، والحد الأيسر العلوي يفصل بين الوجه الأمامي والوجه الجانبي الأيسر.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 16,
+          "lessonQuote": "3-La face latérale gauche ou pulmonaire: Le segment ventriculaire: Convexe, Représenté par le ventricule gauche / 2-Le bord gauche supérieur : entre la face antérieure et la latérale gauche."
+        },
+        {
+          "id": "q35",
+          "question": "",
+          "questionFr": "A propos de la configuration extérieure du cœur :\n1. La face diaphragmatique est formée uniquement par les ventricules\n2. La face diaphragmatique est formée principalement par les ventricules\n3. Les veines pulmonaires font partie de la base du cœur\n4. La base du cœur est formée par les deux atriums et la partie adjacente des ventricules\n5. Les troncs aortiques et pulmonaires font parties de la base du cœur",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(2,3)",
+            "(1,4)",
+            "(1,3)",
+            "(3,5)",
+            "(1,5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "الوجه الحجابي يتكون بشكل رئيسي من البطينين، والأوردة الرئوية الأربعة تشكل جزءاً من قاعدة القلب.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 15,
+          "lessonQuote": "La face inférieure ou diaphragmatique est formée principalement par les ventricules / La base du cœur présente l'abouchement des 4 veines pulmonaires."
+        },
+        {
+          "id": "q47",
+          "question": "",
+          "questionFr": "Le cœur :\n1. Son grand axe est oblique en arrière, en bas et à gauche\n2. Le segment ventriculaire de la face pulmonaire est représenté par le ventricule gauche\n3. Le segment atrial de la face diaphragmatique est formé par l'atrium droit\n4. Le sillon inter-ventriculaire postérieur divise la face postérieure en arrière",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2)",
+            "(2,4)",
+            "(1,3)",
+            "(3,4)",
+            "(2,3)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "الجزء البطيني للوجه الرئوي يمثله البطين الأيسر، والجزء الأذيني للوجه الحجابي يتكون أساساً من الأذين الأيمن.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 15,
+          "lessonQuote": "Le segment atrial de la face diaphragmatique: Formé essentiellement par l'atrium droit / La face pulmonaire: Le segment ventriculaire est représenté par le ventricule gauche."
+        },
+        {
+          "id": "q73",
+          "question": "",
+          "questionFr": "Concernant la face sterno-costale du cœur:",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Elle regarde en avant et à gauche.",
+            "L'atrium gauche est situé en arrière et à gauche.",
+            "Le segment atrial présente une large dépression contenant les troncs aortique et pulmonaire.",
+            "Le ventricule droit occupe le champ le plus large.",
+            "La zone artérielle du segment ventriculaire présente les orifices aortique et pulmonaire."
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 2,
+          "explanation": "الجزء الأذيني للوجه القصي الضلعي يحتوي على انخفاض عريض تتوضع فيه الجذوع الشريانية (الأبهر والرئوي).",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 11,
+          "lessonQuote": "Le segment atrial présente une large dépression contenant les troncs aortique et pulmonaire."
+        },
+        {
+          "id": "q110",
+          "question": "",
+          "questionFr": "Le cœur :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Est un muscle creux, à commande volontaire",
+            "Est un organe situé dans le médiastin moyen",
+            "Présente à décrire une base antérieure",
+            "Présente à décrire un sommet postérieur",
+            "Est parcouru par trois sillons"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "السطح الخارجي للقلب يحتوي 3 أثلام أساسية: الثلم بين الأذينين، الثلم بين البطينين، والثلم الأذيني البطيني.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 5,
+          "lessonQuote": "Trois sillons: inter atrial, inter ventriculaire et atrio ventriculaire."
+        },
+        {
+          "id": "q114",
+          "question": "",
+          "questionFr": "Le cœur gauche :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Reçoit les veines caves",
+            "Reçoit les veines pulmonaires",
+            "Recueille le sang hypo-oxygéné",
+            "Expulse le sang hypo-oxygéné dans l'aorte",
+            "Expulse le sang hypo-oxygéné dans l'artère pulmonaire"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "القلب الأيسر يتلقى الدم المؤكسج القادم من الرئتين عبر الأوردة الرئوية الأربعة.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 18,
+          "lessonQuote": "Le cœur gauche reçoit le sang oxygéné venant des 4 veines pulmonaires."
+        }
+      ]
+    },
+    {
+      "id": "lesson3",
+      "title": "",
+      "titleFr": "Configuration intérieure du cœur",
+      "titleEn": "",
+      "questions": [
+        {
+          "id": "q12",
+          "question": "",
+          "questionFr": "La configuration intérieure du cœur :\n1. La paroi latérale de l'atrium droit est marquée par les muscles pectinés\n2. L'apex du ventricule droit est occupé par les colonnes charnues de 1er et 2e ordre\n3. La paroi latérale de l'atrium gauche présente l'ostium de l'auricule gauche\n4. L'ostium de l'aorte est au-dessus et à gauche de l'ostium atrio-ventriculaire gauche",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,4)",
+            "(2,3)",
+            "(3,4)",
+            "(1,3)",
+            "(2,4)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "الجدار الجانبي للأذين الأيمن يتميز بوجود العضلات المشطية، والجدار الجانبي للأذين الأيسر يحتوي فتحة الصيوان الأيسر.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 8,
+          "lessonQuote": "La paroi latérale de l'atrium droit est marquée par les muscles pectinés / La paroi latérale de l'atrium gauche présente l'ostium de l'auricule gauche."
+        },
+        {
+          "id": "q40",
+          "question": "",
+          "questionFr": "A propos de la configuration intérieure du cœur :\n1. L'ostium du sinus coronaire appartient à la paroi postérieure de l'atrium droit\n2. L'ostium du sinus coronaire appartient à la paroi inférieure de l'atrium droit\n3. L'ostium du sinus coronaire est limitée par la valvule d'Eustachi\n4. La paroi latérale de l'atrium droit est marquée par les muscles pectinés\n5. La paroi latérale de l'atrium droit est marquée par les muscles papillaires",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(3,5)",
+            "(2,4)",
+            "(1,3)",
+            "(2,5)",
+            "(1,5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "فتحة الجيب الإكليلي تنتمي للجدار السفلي للأذين الأيمن، والجدار الجانبي للأذين الأيمن يتميز بالعضلات المشطية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 8,
+          "lessonQuote": "L'ostium du sinus coronaire s'ouvre au niveau de la paroi inférieure de l'atrium droit / La paroi latérale de l'atrium droit est marquée par les muscles pectinés."
+        },
+        {
+          "id": "q48",
+          "question": "",
+          "questionFr": "La configuration intérieure du cœur :\n1. L'auricule droite s'ouvre au niveau de la paroi antérieure de l'atrium droit\n2. L'ostium du tronc pulmonaire se trouve au-dessus et à droite de l'ostium atrio-ventriculaire droit\n3. L'atrium gauche est ovoïde à grand axe vertical\n4. La valve mitrale comprend 2 cuspides septale et gauche",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2)",
+            "(1,3)",
+            "(2,4)",
+            "(1,4)",
+            "(3,4)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "صيوان الأذين الأيمن يفتح في الجدار الأمامي للأذين الأيمن، والصمام التاجي يتكون من شرفتين (حاجزية ويسرى).",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 5,
+          "lessonQuote": "L'auricule droite s'ouvre à la paroi antérieure de l'atrium droit / La valve mitrale comporte 2 cuspides : Cuspide septale et Cuspide gauche."
+        },
+        {
+          "id": "q65",
+          "question": "",
+          "questionFr": "Le cœur :\n1. Le segment ventriculaire de la face pulmonaire est représenté par les ventricules droit et gauche\n2. L'artère inter-ventriculaire antérieure se termine dans le sillon inter-ventriculaire postérieur\n3. L'ostium du tronc pulmonaire se trouve au-dessus et à gauche de l'ostium atrio-ventriculaire droit\n4. La face inférieure répond au lobe droit du foie",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,3)",
+            "(2,3)",
+            "(2,4)",
+            "(1,4)",
+            "(3,4)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "الشريان بين البطينين الأمامي يدور حول ذروة القلب لينتهي في الجزء السفلي للثلم بين البطينين الخلفي، وفتحة الجذع الرئوي تقع فوق وعلى يسار الفتحة الأذينية البطينية اليمنى.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 13,
+          "lessonQuote": "L'ostium du tronc pulmonaire se trouve au-dessus et à gauche de l'ostium atrio-ventriculaire droit / L'artère IVA contourne la pointe du cœur pour se terminer dans le sillon IV postérieur."
+        },
+        {
+          "id": "q74",
+          "question": "",
+          "questionFr": "Concernant la configuration interne du cœur:",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "La fosse ovale est située sur la paroi médiale de l'atrium droit.",
+            "Le trabécule septo-marginale est situé sur la paroi inférieure du ventricule gauche.",
+            "L'ostium atrio-ventriculaire gauche est situé sur la paroi inférieure de l'atrium gauche.",
+            "L'ostium atrio-ventriculaire gauche regarde en arrière et légèrement à gauche.",
+            "L'ostium du tronc pulmonaire regarde en haut à gauche et en arrière."
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "الحفرة البيضية (Fosse ovale) تتوضع في الجدار الإنسي (الحاجزي) للأذين الأيمن.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 7,
+          "lessonQuote": "La paroi septale ou médiale de l'atrium droit présente la fosse ovale."
+        },
+        {
+          "id": "q118",
+          "question": "",
+          "questionFr": "La configuration intérieure :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "L'auricule droite s'ouvre au niveau de la paroi latérale de l'atrium droit",
+            "L'ostium du tronc pulmonaire se trouve au dessus et à droite de l'ostium atrio-ventriculaire droit",
+            "L'atrium gauche est ovoïde à grand axe vertical",
+            "Les bases des piliers du cœur sont libres",
+            "La valve mitrale comprend 2 cuspides septale et gauche"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "الصمام التاجي (Valve mitrale) يتكون من شرفتين: شرفة حاجزية وشرفة يسرى.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 21,
+          "lessonQuote": "La valve mitrale comporte 2 cuspides : Cuspide septale et Cuspide gauche."
+        }
+      ]
+    },
+    {
+      "id": "lesson4",
+      "title": "",
+      "titleFr": "Vascularisation et innervation du cœur",
+      "titleEn": "",
+      "questions": [
+        {
+          "id": "q13",
+          "question": "",
+          "questionFr": "Les vaisseaux du cœur :\n1. L'artère inter-ventriculaire antérieure se termine dans le sillon inter-ventriculaire antérieur\n2. L'artère coronaire gauche irrigue le 1/3 antérieur de la cloison inter-ventriculaire\n3. Les petites veines du cœur sont issues des parois cardiaques\n4. Le collecteur lymphatique principal draine les ventricules",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,4)",
+            "(1,2)",
+            "(3,4)",
+            "(2,3)",
+            "(2,4)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 2,
+          "explanation": "الأوردة الصغيرة للقلب تنشأ من جدرانه، والمجمع اللمفاوي الرئيسي ينزح البطينين.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 3,
+          "lessonQuote": "Les petites veines cardiaques ou veines cardiaques accessoires viennent du ventricule droit / Le collecteur principal draine les ventricules."
+        },
+        {
+          "id": "q14",
+          "question": "",
+          "questionFr": "Le sinus coronaire reçoit les affluents suivants :\n1. La veine de Marshall\n2. La petite veine coronaire\n3. La veine de Galien\n4. La veine interventriculaire antérieure\n5. La veine postérieure du ventricule gauche",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2,5)",
+            "(2,3,5)",
+            "(1,2,4)",
+            "(2,3,4)",
+            "(1,2,3)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "الجيب الإكليلي يتلقى وريد مارشال (1)، الوريد الإكليلي الصغير (2)، والوريد الخلفي للبطين الأيسر (5).",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 3,
+          "lessonQuote": "Le sinus coronaire reçoit la grande veine du cœur, la petite veine du cœur, la veine moyenne du cœur, la veine oblique de l'atrium gauche (de Marshall) et la veine postérieure du ventricule gauche."
+        },
+        {
+          "id": "q32",
+          "question": "",
+          "questionFr": "A propos du système cardio-necteur :\n1. Il se termine par un réseau sous-endocardique\n2. La branche droite du faisceau de His chemine dans une colonne charnue de 1er ordre\n3. La branche droite du faisceau de His chemine dans une colonne charnue de 2ème ordre\n4. La branche droite du faisceau de His chemine dans une colonne charnue de 3ème ordre\n5. L'activité de ce système est explorée par l'écho-doppler cardiaque",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2)",
+            "(1,4)",
+            "(1,3)",
+            "(2,5)",
+            "(3,5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 2,
+          "explanation": "النظام الناقل ينتهي بشبكة تحت الشغاف (شبكة بوركينجي)، والفرع الأيمن لحزمة هيس يمر عبر العمود العضلي من الدرجة الثانية (Trabécule septo-marginale).",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 5,
+          "lessonQuote": "Les branches de terminaisons constituent le réseau sous-endocardique de Purkinje / La bandelette ansiforme est une colonne charnue de 2ème ordre."
+        },
+        {
+          "id": "q38",
+          "question": "",
+          "questionFr": "A propos de la vascularisation du cœur :\n1. Le tissu nodal est vascularisé principalement par l'artère coronaire gauche\n2. La branche droite du faisceau de His est vascularisée par les deux artères coronaires\n3. L'artère coronaire gauche passe en avant du tronc pulmonaire\n4. Les rameaux vasculaires gauches naissent de l'artère circonflexe\n5. Les artères septales postérieures sont des branches de la coronaire droite",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,3)",
+            "(1,4)",
+            "(1,5)",
+            "(3,5)",
+            "(2,5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "الفرع الأيمن لحزمة هيس يتغذى من الشريانين الإكليليين معاً، والشرايين الحاجزية الخلفية هي فروع للشريان الإكليلي الأيمن.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 2,
+          "lessonQuote": "Les artères septales postérieures sont des branches de l'artère coronaire droite / la branche droite du faisceau de His est vascularisée par les deux artères coronaires."
+        },
+        {
+          "id": "q49",
+          "question": "",
+          "questionFr": "Les vaisseaux du cœur :\n1. Les artères atriales gauches naissent de l'artère circonflexe\n2. L'artère inter-ventriculaire postérieure contourne la pointe du cœur\n3. L'artère coronaire gauche irrigue le tissu nodal\n4. La veine de Galien s'abouche directement dans l'atrium droit",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2)",
+            "(2,4)",
+            "(1,3)",
+            "(1,4)",
+            "(2,3)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "الشرايين الأذينية اليسرى تنشأ من الشريان المنعطف، ووريد جالينوس يصب مباشرة في الأذين الأيمن.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 1,
+          "lessonQuote": "L'artère circonflexe donne les artères atriales gauches / La veine de Galien (veine du bord droit) se termine directement dans l'atrium droit."
+        },
+        {
+          "id": "q50",
+          "question": "",
+          "questionFr": "Les nerfs du cœur :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Les centres du sympathique cardiaque sont les noyaux du nerf vague",
+            "Le ganglion du Wrisberg se trouve sur la face antérieure des atriums",
+            "Le plexus cardiaque inférieur donne les nerfs ventriculaires",
+            "Le nœud atrio-ventriculaire est situé sur la paroi postérieure de l'atrium droit",
+            "Le nœud sinu-atrial est situé sur la face postérieure de l'atrium droit"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "العقدة الجيبية الأذينية (Sinu-atrial node) تقع في الجدار الخلفي للأذين الأيمن.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 5,
+          "lessonQuote": "Le nœud sinu-atrial ou nœud sinusal (de Keith et Flack): Situé sur la paroi postérieure de l'atrium droit."
+        },
+        {
+          "id": "q93",
+          "question": "",
+          "questionFr": "Concernant les réponses justes : Concernant les vaisseaux du cœur :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "L'artère circonflexe passe en avant de l'auricule gauche",
+            "Les artère graisseuse de Vieussens naissent des artères coronaires droite et gauches",
+            "L'artère du bord droit est une collatérale de la circonflexe",
+            "L'artère coronaire gauche irrigue les 2/3 antérieurs de la cloison inter-ventriculaire",
+            "La grande veine coronaire se termine sur la face inférieure de l'atrium droit"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "الشريان الإكليلي الأيسر يغذي الثلثين الأماميين للحاجز بين البطينين.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 2,
+          "lessonQuote": "L'artère coronaire gauche irrigue les 2/3 antérieurs de la cloison inter-ventriculaire."
+        },
+        {
+          "id": "q94",
+          "question": "",
+          "questionFr": "Concernant la réponse juste : Concernant les vaisseaux du cœur :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Le sinus coronaire recueille tout le sang veineux du cœur",
+            "La petite veine coronaire accompagne l'artère coronaire gauche",
+            "Les petites veines du cœur s'ouvrent dans les cavités du cœur",
+            "Le collecteur lymphatique principal draine les ventricules",
+            "Le collecteur lymphatique accessoire draine l'atrium gauche"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "المجمع اللمفاوي الرئيسي للقلب ينزح اللمف من منطقة البطينين.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 4,
+          "lessonQuote": "Le collecteur lymphatique principal draine les ventricules."
+        },
+        {
+          "id": "q95",
+          "question": "",
+          "questionFr": "Concernant les nerfs du cœur :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Le système sympathique est formé par des branches du nerf vague",
+            "Le plexus cardiaque supérieur est situé en arrière de l'atrium droit",
+            "Le plexus cardiaque est formé par des cellules endocardiques spécialisées",
+            "Le nœud sinusal se situe sur la face postérieure de l'atrium droit",
+            "Le tissu nodal est vascularisé par l'artère coronaire droite"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "العقدة الجيبية (Nœud sinusal de Keith et Flack) تقع في الجدار الخلفي للأذين الأيمن.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 5,
+          "lessonQuote": "Le nœud sinu-atrial ou nœud sinusal est situé sur la paroi postérieure de l'atrium droit."
+        },
+        {
+          "id": "q111",
+          "question": "",
+          "questionFr": "L'innervation intrinsèque du cœur est assurée par :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Le système sympathique",
+            "Le système parasympathique",
+            "Le plexus cardiaque antérieur",
+            "Le plexus cardiaque postérieur",
+            "Le système cardio-necteur"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "التعصيب الذاتي/الداخلي للقلب المسؤول عن التلقائية القلبية يؤمنه الجهاز الناقل للقلب (système cardio-necteur / tissu nodal).",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 5,
+          "lessonQuote": "1- LE SYSTEME INTRINSEQUE: Ou système cardio-necteur ou système de commande, responsable de l'automatisme cardiaque."
+        },
+        {
+          "id": "q119",
+          "question": "",
+          "questionFr": "Les vaisseaux du cœur :\n1. Les artères atriales gauches naissent de l'artère circonflexe\n2. L'artère inter-ventriculaire postérieure contourne la pointe du cœur\n3. L'artère coronaire droite irrigue le tissu nodal\n4. La veine de Galien s'abouche directement dans l'atrium droit\n5. Le collecteur lymphatique principal est situé à droite",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1-3-4)",
+            "(1-2-3)",
+            "(2-3-4)",
+            "(3-4-5)",
+            "(1-3-5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "الشرايين الأذينية اليسرى تنشأ من الشريان المنعطف (1)، والشريان الإكليلي الأيمن يغذي العقد الناقلة (3)، ووريد جالينوس يصب في الأذين الأيمن (4).",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 1,
+          "lessonQuote": "L'artère circonflexe donne les artères atriales gauches / La coronaire droite vascularise les nœuds / La veine de Galien se termine directement dans l'atrium droit."
+        },
+        {
+          "id": "q120",
+          "question": "",
+          "questionFr": "Les nerfs du cœur :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Les centres du sympathique cardiaque sont les noyaux du nerf vague",
+            "Le ganglion de Wrisberg se trouve sur la face antérieure des atriums",
+            "Le plexus cardiaque inférieur donne les nerfs ventriculaire",
+            "Le nœud sinu-atrial est situé sur la face postérieure de l'atrium gauche",
+            "Le nœud atrio-ventriculaire est situé sur la paroi inférieure de l'atrium droit"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "العقدة الأذينية البطينية (Nœud d'Aschoff-Tawara) تقع في الجدار السفلي للأذين الأيمن بالقرب من الحاجز الأذيني البطيني.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 5,
+          "lessonQuote": "Le nœud atrio-ventriculaire: Situé sur la paroi inférieure de l'atrium droit près du septum atrio-ventriculaire."
+        }
+      ]
+    },
+    {
+      "id": "lesson5",
+      "title": "",
+      "titleFr": "Le système artériel",
+      "titleEn": "",
+      "questions": [
+        {
+          "id": "q3",
+          "question": "",
+          "questionFr": "Le système artériel :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Le segment horizontal de la crosse aortique se porte en arrière et à droite",
+            "L'aorte thoracique descendante répond en arrière au rachis de T4 à T12",
+            "Les artères phréniques supérieures sont des branches collatérales de l'aorte abdominale",
+            "L'artère iliaque interne devient artère fémorale en passant sous l'arcade crurale",
+            "Le tronc pulmonaire est placé à droite de l'aorte"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "الأبهر الصدري النازل يستند في الخلف على العمود الفقري من الفقرة الصدرية T4 إلى T12.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 5,
+          "lessonQuote": "En arrière à la colonne vertébrale de T4 à T12, à la veine hémi-azygos, au grand nerf sympathique gauche."
+        },
+        {
+          "id": "q17",
+          "question": "",
+          "questionFr": "Le système artériel :\n1. L'aorte est à l'origine de toutes les artères du corps sauf cellules du cœur\n2. L'isthme aortique est un rétrécissement situé à l'union du segment 2 de la crosse aortique et l'aorte thoracique descendante\n3. L'aorte thoracique est placée en arrière de l'œsophage en bas\n4. L'aorte abdominale est placée à droite de la veine cave inférieure\n5. Les artères surrénales supérieures sont des branches collatérales de l'aorte abdominale",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(2,3,5)",
+            "(2,4,5)",
+            "(3,4)",
+            "(1,2,3)",
+            "(2,3)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "مضيق الأبهر يتوضع عند اتصال الجزء الأفقي لقوس الأبهر بالأبهر النازل، والأبهر الصدري يجاور المريء من الخلف في الأسفل.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 4,
+          "lessonQuote": "L'isthme aortique est un rétrécissement situé à l'union du segment horizontal de la crosse aortique et de l'aorte descendante / en bas, l'aorte descendante se place en arrière de l'œsophage."
+        },
+        {
+          "id": "q29",
+          "question": "",
+          "questionFr": "Le système artériel :\n1. L'aorte est le tronc vasculaire d'origine de toutes les artères du corps\n2. Le segment ascendant de la crosse aortique est oblique en haut et à gauche\n3. L'aorte thoracique répond à l'œsophage en avant et en bas\n4. Le tronc artériel brachio-céphalique se divise en artère sous-clavière gauche et carotide commune gauche\n5. L'artère pulmonaire se dirige obliquement en haut placée à droite de l'aorte",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(2,3)",
+            "(1,3)",
+            "(1,5)",
+            "(3,4)",
+            "(1,4)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "الأبهر هو الجذع الوعائي المنشئ لكل شرايين الجسم، والأبهر الصدري يجاور المريء من الخلف والأسفل.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 1,
+          "lessonQuote": "L'aorte est le tronc d'origine de toutes les artères de la grande circulation / En bas, l'aorte descendante est située en arrière de l'œsophage."
+        },
+        {
+          "id": "q52",
+          "question": "",
+          "questionFr": "Le système artériel :\n1. Le sinus aortique est un rétrécissement de l'origine de l'aorte\n2. Le segment horizontal de la crosse aortique se portant en arrière et à gauche\n3. L'artère iliaque interne devient artère fémorale en passant sous l'arcade crurale\n4. L'artère hypogastrique est une branche collatérale de l'aorte abdominale\n5. Le tronc pulmonaire est placé à gauche de l'aorte",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,5)",
+            "(2,5)",
+            "(2,3)",
+            "(2,4)",
+            "(4,5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "القطعة الأفقية لقوس الأبهر تتجه إلى الخلف واليسار، والجذع الرئوي يقع على يسار الأبهر الصاعد.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 2,
+          "lessonQuote": "Le segment horizontal se dirige en arrière et à gauche / Le tronc pulmonaire est situé à gauche de l'aorte."
+        },
+        {
+          "id": "q66",
+          "question": "",
+          "questionFr": "Le système artériel :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "La crosse aortique est divisée en trois segments",
+            "L'artère carotide commune droite naît directement de la crosse aortique",
+            "L'artère hypogastrique se distribue aux organes et aux parois de pelvis",
+            "L'artère pulmonaire est placée à droite de l'aorte",
+            "L'artère pulmonaire conduit le sang veineux des poumons vers le cœur"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 2,
+          "explanation": "الشريان الحوضي الباطن (L'artère hypogastrique / iliaque interne) يتوزع على أعضاء وجدران الحوض.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 9,
+          "lessonQuote": "L'artère iliaque interne (hypogastrique) est l'artère principale du pelvis, elle se distribue aux organes et aux parois du pelvis."
+        },
+        {
+          "id": "q81",
+          "question": "",
+          "questionFr": "Concernant la ou les réponses justes:",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "L'aorte descendante thoracique fait suite à la crosse aortique au niveau de T4.",
+            "L'aorte descendante devient aorte abdominale à hauteur de T12.",
+            "L'aorte abdominale se termine à hauteur de L2 en se bifurquant en 02 branches terminales.",
+            "Le tronc artériel brachio-céphalique se divise en artère sous-clavière gauche et carotide commune gauche.",
+            "Les veines sont des conduits cylindriques, non battantes, pourvues de valves pour certaines."
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "الأبهر النازل الصدري يبدأ مباشرة بعد قوس الأبهر عند الحد السفلي للفقرة الصدرية الرابعة T4.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 4,
+          "lessonQuote": "L'aorte descendante thoracique fait suite à la crosse aortique au niveau du bord inférieur de T4."
+        },
+        {
+          "id": "q83",
+          "question": "",
+          "questionFr": "Concernant les réponses justes:",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "L'origine du système artériel est l'aorte et le tronc pulmonaire.",
+            "Les artères sont des conduits fibreux-membraneux.",
+            "Les artères radiale et artère humérale sont élastiques.",
+            "La tunique externe de l'artère est conjonctive.",
+            "L'orifice aortique du ventricule gauche présente le sinus aortique."
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "الجهاز الشرياني ينشأ من القلب عبر جذعين رئيسيين هما الأبهر والجذع الرئوي.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 1,
+          "lessonQuote": "Le système artériel prend son origine du cœur par deux troncs principaux: l'aorte et le tronc pulmonaire."
+        },
+        {
+          "id": "q99",
+          "question": "",
+          "questionFr": "Le système artériel :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Le sinus aortique est un rétrécissement à l'origine de l'aorte",
+            "L'aorte thoracique descendante est située à gauche de l'œsophage en haut",
+            "L'artère carotide commune droite naît directement de la crosse aortique",
+            "Les artères lombaires sont au nombre de 4",
+            "L'artère pulmonaire conduit le sang veineux des poumons vers le cœur"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "الأبهر الصدري النازل يتوضع في الأعلى على يسار المريء قبل أن يصبح خلفه في الأسفل.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 5,
+          "lessonQuote": "L'aorte thoracique descendante est située à gauche de l'œsophage en haut, puis en arrière de lui en bas."
+        },
+        {
+          "id": "q121",
+          "question": "",
+          "questionFr": "Le système artériel :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Le sinus aortique est un rétrécissement de l'origine de l'aorte",
+            "Le segment horizontal de la crosse aortique se portant en arrière et à gauche",
+            "L'aorte thoracique descendante répond en arrière au rachis de T4 à T10",
+            "L'artère hypogastrique est une branche collatérale de l'aorte abdominale",
+            "Le tronc pulmonaire est placé à droite de l'aorte"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "الجزء الأفقي لقوس الأبهر يتجه نحو الخلف وإلى اليسار.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 4,
+          "lessonQuote": "Le segment horizontal de la crosse aortique se dirige en arrière et à gauche."
+        }
+      ]
+    },
+    {
+      "id": "lesson6",
+      "title": "",
+      "titleFr": "Le système veineux et lymphatique",
+      "titleEn": "",
+      "questions": [
+        {
+          "id": "q18",
+          "question": "",
+          "questionFr": "Le système lymphatique :\n1. Le conduit thoracique naît à la hauteur de L1\n2. Le conduit thoracique reçoit le tronc broncho-médiastinal gauche\n3. La grande veine lymphatique droite draine l'hémi-abdomen droit\n4. Les tonsilles sont des organes lymphoïdes primaires",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2)",
+            "(2,4)",
+            "(1,3)",
+            "(1,4)",
+            "(2,3)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "القناة الصدرية تنشأ عند مستوى L1 وتتلقى الجذع القصبي المنصفي الأيسر عند انتهائها.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le conduit thoracique naît à la hauteur de L1 et reçoit le tronc broncho-médiastinal gauche."
+        },
+        {
+          "id": "q31",
+          "question": "",
+          "questionFr": "Le système veineux :\n1. La veine brachio-céphalique droite est plus longue que la brachio-céphalique gauche\n2. La veine cave inférieure naît en regard de L5\n3. La veine hémi-azygos est une affluente de la veine azygos\n4. La racine latérale de la veine azygos est inconstante\n5. La veine hémi-azygos reçoit les 7 dernières veines intercostales gauches",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2)",
+            "(1,3)",
+            "(2,4)",
+            "(3,5)",
+            "(2,3)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "الوريد الأجوف السفلي ينشأ عند L5، والوريد نصف الأزيجوس هو رافد للوريد الأزيجوس الكبير.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "La veine cave inférieure naît en regard de L5 / La veine hémi-azygos se jette dans la veine azygos."
+        },
+        {
+          "id": "q33",
+          "question": "",
+          "questionFr": "Le conduit thoracique reçoit :\n1. Les vaisseaux lymphatiques intercostaux\n2. Les troncs jugulaire et subclavier droits\n3. Les troncs broncho-médiastinaux\n4. Les troncs jugulaire et subclavier gauches\n5. Le confluent veineux jugulo- sub-clavier gauche.",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(4,5)",
+            "(1,5)",
+            "(3,4)",
+            "(1,4)",
+            "(1,2)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "القناة الصدرية تتلقى الأوعية اللمفاوية بين الضلعية، وتتلقى الجذعين الوداجي وتحت الترقوة الأيسرين عند انتهائها.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le conduit thoracique reçoit les vaisseaux lymphatiques intercostaux et se termine en recevant les troncs jugulaire et subclavier gauches."
+        },
+        {
+          "id": "q58",
+          "question": "",
+          "questionFr": "Les veines brachio-céphaliques (bc) sont au nombre de deux droite et gauche.\n1. Chaque veine (bc) est formée par l'union de la veine jugulaire interne et la veine subclavière.\n2. La veine cave inférieure nait en regard de L3.\n3. La VBC droite est plus courte et plus verticale que la VBC gauche.\n4. Le système lymphatique draine la lymphe des tissus d'organes profonds dans l'abdomen, le thorax et le cou.",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2)",
+            "(1,3,4)",
+            "(1,4)",
+            "(2,3,4)",
+            "(1,2,4)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "كل وريد عضدي رأسي ينشأ من اتحاد الوريد الوداجي الباطن والوريد تحت الترقوة، والوريد العضدي الرأسي الأيمن أقصر وأكثر رأسية، والجهاز اللمفاوي ينزح الأنسجة والأعضاء العميقة.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Chaque veine brachio-céphalique est formée par l'union de la veine jugulaire interne et de la veine subclavière / La VBC droite est plus courte et plus verticale / Le système lymphatique draine la lymphe des tissus profonds."
+        },
+        {
+          "id": "q82",
+          "question": "",
+          "questionFr": "Concernant la ou les réponses justes:",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "La veine cave supérieure naît de la réunion des 02 veines jugulaires.",
+            "La veine cave supérieure draine tous les organes du médiastin.",
+            "La veine cave inférieure pénètre dans le thorax par l'orifice diaphragmatique situé au niveau de D9.",
+            "Le système porte naît de la réunion des veines splénique, mésentérique supérieure et mésentérique inférieure.",
+            "La veine porte communique avec le système cave au niveau de la rate."
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "الوريد البابي يتشكل من اجتماع الوريد المساريقي العلوي، والوريد المساريقي السفلي، والوريد الطحالي.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le système porte est formé par la réunion de la veine mésentérique supérieure, de la veine mésentérique inférieure et de la veine splénique."
+        },
+        {
+          "id": "q87",
+          "question": "",
+          "questionFr": "Cocher les réponses justes :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "La veine azygos principale se termine dans la veine cave supérieure.",
+            "Le conduit thoracique draine vers le système veineux toute la lymphe de l'hémi-thorax gauche.",
+            "Les nœuds lymphatiques sont les filtres de la lymphe.",
+            "Les réseaux lymphatiques profonds sont situés au niveau inguinal, axillaire, occipital et cervical.",
+            "Les follicules lymphatiques sont particulièrement fréquents dans les muqueuses intestinales."
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "وريد الأزيجوس الرئيسي ينتهي صاباً في الوريد الأجوف العلوي عبر قوس الأزيجوس.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "La grande veine azygos se termine dans la veine cave supérieure par la crosse de l'azygos."
+        },
+        {
+          "id": "q100",
+          "question": "",
+          "questionFr": "Le système veineux :\n1. Les veines superficielles sont satellites des artères\n2. La veine cave supérieure naît à la hauteur du 1er cartilage costal gauche\n3. La veine azygos est la seule affluente de la veine cave supérieure\n4. La veine cave inférieure se termine dans l'atrium droit en regard de T9\n5. La racine médiale de la veine azygos naît de la face postérieure de la veine cave inférieure",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,3,4)",
+            "(2,4,5)",
+            "(3,4,5)",
+            "(2,3,4)",
+            "(2,3,5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "الوريد الأجوف السفلي ينتهي في الأذين الأيمن عند مستوى T9، والجذر الإنسي للوريد الأزيجوس ينشأ من الوجه الخلفي للوريد الأجوف السفلي.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "La veine cave inférieure se termine dans l'atrium droit en regard de T9 / La racine médiale de la veine azygos naît de la VCI."
+        },
+        {
+          "id": "q122",
+          "question": "",
+          "questionFr": "Le système veineux :\n1. Les veines profondes sont sous-aponévrotiques\n2. Le système cave est le collecteur de toutes les veines du corps\n3. La veine cave inférieure naît en regard de L5\n4. La veine cave inférieure reçoit la veine azygos\n5. La veine azygos passe au dessus du pédicule pulmonaire droit",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(2-3-4)",
+            "(2-3-5)",
+            "(1-3-5)",
+            "(1-3-4)",
+            "(3-4-5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 2,
+          "explanation": "الأوردة العميقة تقع تحت الصفاق (1)، والوريد الأجوف السفلي ينشأ عند L5 (3)، ووريد الأزيجوس يشكل قوساً يعلو السويقة الرئوية اليمنى (5).",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Les veines profondes sont sous-aponévrotiques / La VCI naît en regard de L5 / La grande veine azygos enjambe la bronche souche droite (pédicule pulmonaire)."
+        }
+      ]
+    },
+    {
+      "id": "lesson7",
+      "title": "",
+      "titleFr": "Le péricarde",
+      "titleEn": "",
+      "questions": [
+        {
+          "id": "q15",
+          "question": "",
+          "questionFr": "Le péricarde :\n1. Le mésocarde postérieur est la zone dépéricardisée du cœur\n2. Le sinus transverse est appelé cul de sac de Haller\n3. La fossette rétro-cave d'Allison est un diverticule entre la veine cave supérieure et la veine pulmonaire inférieure droite\n4. La vascularisation artérielle du feuillet viscéral du péricarde séreux est assurée par les artères coronaires",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2)",
+            "(1,4)",
+            "(1,3)",
+            "(2,4)",
+            "(2,3)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "الميزوكارد الخلفي يمثل المنطقة غير المغطاة بالتامور (zone dépéricardisée)، والتغذية الشريانية للصفيحة الحشوية للتامور المصلي تتأمن عبر الشرايين الإكليلية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 18,
+          "lessonQuote": "Le mésocarde postérieur est la zone dépéricardisée du cœur / La vascularisation artérielle du feuillet viscéral du péricarde séreux est assurée par les artères coronaires."
+        },
+        {
+          "id": "q16",
+          "question": "",
+          "questionFr": "Les rapports du cœur :\n1. La face antérieure répond aux vaisseaux thoraciques (mammaires) internes\n2. La face inférieure répond au lobe droit du foie\n3. La face gauche répond au nerf phrénique gauche\n4. La base répond aux vertèbres thoraciques de T4 à T8",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2)",
+            "(2,4)",
+            "(1,3)",
+            "(1,4)",
+            "(2,3)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 2,
+          "explanation": "الوجه الأمامي للقلب يجاور الأوعية الصدرية الداخلية، والوجه الأيسر يجاور العصب الحجابي الأيسر.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 24,
+          "lessonQuote": "Face antérieure ou sterno-costale répond aux : Vaisseaux thoraciques internes / Face gauche ou face pulmonaire, elle répond: Au nerf phrénique gauche."
+        },
+        {
+          "id": "q30",
+          "question": "",
+          "questionFr": "Les rapports du cœur :\n1. La face antérieure répond aux poumons et plèvres\n2. La face diaphragmatique répond au lobe droit du foie\n3. La face pulmonaire gauche répond au nerf vague gauche\n4. La base répond aux vertèbres de T5 à T8\n5. L'apex répond au 6ème espace intercostal.",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,3,5)",
+            "(2,3,4)",
+            "(3,4,5)",
+            "(1,4,5)",
+            "(2,3,5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "الوجه الأمامي يجاور الرئتين والجنبتين، والقاعدة تجاور الفقرات T5-T8.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 24,
+          "lessonQuote": "Face antérieure ou sterno-costale répond aux : Plèvres et aux poumons / La base, répond: Vertèbres thoraciques de T5 à T8."
+        },
+        {
+          "id": "q41",
+          "question": "",
+          "questionFr": "Le péricarde :\n1. La gaine artérielle est plus étendue en avant\n2. La ligne de réflexion forme une gaine veineuse complète autour des veines caves et des veines pulmonaires\n3. Le récessus cave inférieur est situé entre la veine cave inférieure et la veine pulmonaire gauche\n4. Le sinus oblique est un canal aciforme\n5. Le feuillet viscéral du péricarde séreux est irrigué par les artères coronaires",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2)",
+            "(4,5)",
+            "(2,4)",
+            "(1,5)",
+            "(2,5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "الغمد الشرياني للتامور المصلي ممتد جداً خاصة في الأمام، والصفيحة الحشوية للتامور المصلي تغذى بواسطة الشرايين الإكليلية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 12,
+          "lessonQuote": "Gaine artérielle : Très étendue surtout en avant / Le feuillet viscéral du péricarde séreux est irrigué par les artères coronaires."
+        },
+        {
+          "id": "q51",
+          "question": "",
+          "questionFr": "Le péricarde :\n1. La gaine artérielle est plus étendue en avant\n2. La ligne de réflexion forme une veine veineuse complète autour des veines caves et des veines pulmonaires\n3. Le sinus oblique est un canal aciforme\n4. Le feuillet pariétal du péricarde séreux est irrigué par les artères phréniques supérieures",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2)",
+            "(2,4)",
+            "(1,4)",
+            "(1,3)",
+            "(2,3)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 2,
+          "explanation": "الغمد الشرياني ممتد جداً خاصة في الأمام حول الأبهر والجذع الرئوي، والتروية الشريانية للصفيحة الجدارية للتامور المصلي تأتي عبر الشرايين الحجابية العلوية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 12,
+          "lessonQuote": "Gaine artérielle: Très étendue surtout en avant / Vascularisation du feuillet pariétal et du péricarde fibreux: assurée par les artères phréniques supérieures."
+        },
+        {
+          "id": "q75",
+          "question": "",
+          "questionFr": "Concernant les légendes justes concernant le péricarde:",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Le sinus transverse de THEILE.",
+            "Le sinus oblique.",
+            "Le récessus cave inférieur.",
+            "Le récessus inter pulmonaire gauche.",
+            "La fossette rétrocave d'ALLISON."
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "الجيب المعترض للتامور المصلي (Sinus transverse de Theile) يعرف بجيب تايل.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 15,
+          "lessonQuote": "Le sinus transverse du péricarde (de Theile) est un canal étendu transversalement en arrière de l'aorte et du tronc pulmonaire."
+        },
+        {
+          "id": "q79",
+          "question": "",
+          "questionFr": "La face antérieure du cœur présente des rapports avec:",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Le thymus chez l'enfant ou ses vestiges chez l'adulte.",
+            "Les vaisseaux mammaires externes",
+            "Le muscle triangulaire du sternum.",
+            "Les poumons et les plèvres.",
+            "Le nerf phrénique gauche."
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "الوجه الأمامي للقلب يتجاور مع التيموس عند الطفل أو بقاياه لدى البالغ.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 24,
+          "lessonQuote": "Face antérieure répond au : Thymus ou à ses vestiges."
+        },
+        {
+          "id": "q101",
+          "question": "",
+          "questionFr": "Le système lymphatique :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Les vaisseaux lymphatiques sont avalvulaires",
+            "Le conduit thoracique naît en avant de l'aorte, au niveau de L1",
+            "Le conduit thoracique pénètre dans le médiastin antérieur",
+            "La grande veine lymphatique droite draine le membre inférieur droit",
+            "Le thymus est bien développé chez l'enfant"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "التيموس (Thymus) يكون نامياً بشكل جيد لدى الأطفال، ثم يضمر ويتحول إلى بقايا لدى البالغين.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 24,
+          "lessonQuote": "Thymus bien développé chez l'enfant ou ses vestiges chez l'adulte."
+        },
+        {
+          "id": "q104",
+          "question": "",
+          "questionFr": "Le péricarde :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Le péricarde fibreux est formé par deux feuillets, viscéral et pariétal",
+            "La ligne de réflexion du péricarde séreux correspond d'un pédicule veineux formé par les veines caves et les veines pulmonaires.",
+            "Le sinus de Theile présente un orifice gauche, situé entre l'artère pulmonaire et l'aorte ascendante.",
+            "Le cœur se projette en arrière sur 5 vertèbres dorsales de D2-à D6",
+            "Les rapports postérieurs des atriums correspondent à la plèvre médiastine, le nerf pneumogastrique droit"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "خط انعكاس التامور المصلي حول السويقة الوريدية يحيط بالوريدين الأجوفين والأوردة الرئوية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 14,
+          "lessonQuote": "Autour du pédicule veineux: La ligne de réflexion entoure les 2 veines caves et les veines pulmonaires."
+        },
+        {
+          "id": "q127",
+          "question": "",
+          "questionFr": "Les rapports du cœur :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Les rapports postérieurs de l'atrium droit correspondent au nerf vague droit (10)",
+            "L'atrium gauche répond en arrière à la aorte thoracique descendante et la grande veine azygos.",
+            "Le muscle triangulaire du sternum répond à la face gauche du cœur",
+            "Le cœur se projette en arrière sur 4 vertèbres dorsales : D7 - D8- D9 et D10",
+            "Les rapports du cœur se font pour la plupart par l'intermédiaire des 2 plèvres médiastinales."
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "مجاورات قاعدة القلب والأذين الأيمن من الخلف تضم العصب المبهم الأيمن (X).",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 28,
+          "lessonQuote": "La base répond en arrière au nerf vague droit."
+        },
+        {
+          "id": "q128",
+          "question": "",
+          "questionFr": "Le péricarde :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Le sinus oblique du péricarde tapisse la face postérieure de l'oreillette gauche.",
+            "Les ligaments sterno-péricardiques sont les plus solides des ligaments péricardiques.",
+            "Le péricarde est vascularisé par les artères mammaire interne et phrénique inférieure gauche.",
+            "Le mésocarde postérieur est la zone les atriums recouverte de péricarde.",
+            "Le péricarde favorise le remplissage excessif du cœur."
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "الجيب المائل للتامور المصلي (مأبض هيلر / Cul-de-sac de Haller) يقع خلف الأذين الأيسر.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 16,
+          "lessonQuote": "Le sinus oblique du péricarde est situé à la face postérieure de l'atrium gauche."
+        }
+      ]
+    },
+    {
+      "id": "lesson8",
+      "title": "",
+      "titleFr": "Anatomie du larynx",
+      "titleEn": "",
+      "questions": [
+        {
+          "id": "q8",
+          "question": "",
+          "questionFr": "Cocher la réponse juste :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Le bord supérieur du cartilage thyroïde avec son incisure médiane donne insertion à la membrane thyroïdienne.",
+            "Le chaton cricoïdien représente la face antérieure du cartilage cricoïde",
+            "Le cartilage triticé situé dans le ligament thyro-épiglottique latéral.",
+            "L'articulation crico-thyroïdienne unit les cornes inférieures du thyroïde à l'arc cricoïdien.",
+            "Les ligaments thyro-épiglottiques; courte lame fibreuse paire, tendue de l'extrémité inférieure de l'épiglotte au thyroïde"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "الرباط الدرقي المزماري عبارة عن صفيحة ليفية زوجية قصيرة تمتد من الطرف السفلي للسان المزمار إلى الغضروف الدرقي.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le ligament thyro-épiglottique: courte lame fibreuse paire, tendue de l'extrémité inférieure de l'épiglotte à la face postérieure du cartilage thyroïde."
+        },
+        {
+          "id": "q9",
+          "question": "",
+          "questionFr": "Cocher la réponse juste :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Le bord supérieur du cartilage thyroïde avec son incisure médiane donne insertion à la membrane thyroïdienne.",
+            "Le médiastin postérieur est organisé autour de l'aorte descendante qui en constitue l'axe vertical.",
+            "La coupe T5 passe par la trachée thoracique.",
+            "Les muscles thyroaryténoïdiens et cricothyroïdiens n'agissent pas sur les cordes vocales.",
+            "L'épiglotte est reliée par différentes structures au cartilage thyroïde, à l'os hyoïde, cricoïde et à la base de langue."
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "لسان المزمار (L'épiglotte) يرتبط ببنيات ورباطات متعددة بالغضروف الدرقي، العظم اللامي، الغضروف الحلقي وقاعدة اللسان.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "L'épiglotte est reliée par différentes structures au cartilage thyroïde, à l'os hyoïde, cricoïde et à la base de langue."
+        },
+        {
+          "id": "q24",
+          "question": "",
+          "questionFr": "Le larynx :\n1. Le cartilage aryténoïde est formé par la réunion de deux lames latérales, dénommée proéminence laryngée\n2. Le cartilage cricoïde a la forme d'une bague à chaton postérieur\n3. L'épiglotte est située en arrière du cartilage thyroïde\n4. Le muscle crico-aryténoïdien postérieur est le seul abducteur des cordes vocales",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2)",
+            "(2,3,4)",
+            "(1,4)",
+            "(2,4)",
+            "(2,3)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "الغضروف الحلقي على شكل خاتم بصفيحة خلفية، ولسان المزمار يقع خلف الغضروف الدرقي، والعضلة الحلقية الأريتينويدية الخلفية هي العضلة المبعدة الوحيدة للحبال الصوتية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le cartilage cricoïde a la forme d'une bague à chaton postérieur / Le crico-aryténoïdien postérieur est le seul muscle abducteur des plis vocaux."
+        },
+        {
+          "id": "q25",
+          "question": "",
+          "questionFr": "Le larynx :\n1. Les cordes vocales supérieures sont mobiles\n2. Le nerf laryngé inférieur donne l'innervation moteur aux cordes vocales inférieures\n3. Les muscles à fonction sphinctérienne du larynx sont les muscles thyroaryténoïdiens et muscles cricothyroïdiens\n4. L'étage sus-glottique présente une fente sagittale",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2)",
+            "(1,3)",
+            "(1,4)",
+            "(2,4)",
+            "(2,3)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "العصب الحنجري السفلي (الراجع) يعصب عضلات الحبال الصوتية السفلية حركياً، والطبقة فوق المزمارية تبدي شقاً سهمياً.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le nerf laryngé inférieur (récurrent) assure l'innervation motrice des cordes vocales inférieures."
+        },
+        {
+          "id": "q39",
+          "question": "",
+          "questionFr": "A propos du larynx :\n1. Le bord supérieur se projette sur la sixième vertèbre cervicale\n2. Le cartilage cricoïde comprend un anneau postérieur et un chaton antérieur\n3. Le processus vocal est un prolongement latéral du cartilage aryténoïde\n4. Les muscles cricoaryténoïdiens postérieurs ouvrent la fente glottique\n5. Le muscle aryténoïdien oblique ferme la fente glottique",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(2,3)",
+            "(1,4)",
+            "(2,4)",
+            "(1,5)",
+            "(4,5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "العضلات الحلقية الأريتينويدية الخلفية تفتح الشق المزماري، والعضلة الأريتينويدية المائلة تغلق الشق المزماري.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le crico-aryténoïdien postérieur ouvre la fente glottique / Le muscle inter-aryténoïdien (oblique et transverse) ferme la fente glottique."
+        },
+        {
+          "id": "q60",
+          "question": "",
+          "questionFr": "Le larynx :\n1. Situé à la partie antérieure et moyenne du cou à hauteur de c5, c6 et c7.\n2. De part et d'autre du bord supérieur du chaton cricoïdien se trouvent les facettes articulaires thyroïdiennes.\n3. Le muscle thyro-arytenoidien s'insère sur la face antéro-externe des cartilages aryténoïdes.\n4. Le ligament jugal s'insère sur le bord supérieur du chaton cricoïdien.",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2,4)",
+            "(1,3)",
+            "(1,4)",
+            "(3,4)",
+            "(1,2,3)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "العضلة الدرقية الأريتينويدية ترتكز على الوجه الأمامي الخارجي للغضروف الأريتينويدي، والرباط النيراني (Le ligament jugal) يرتكز على الحد العلوي للصفيحة الحلقية (chaton cricoïdien).",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le muscle thyro-aryténoïdien s'insère sur la face antéro-externe de l'aryténoïde / Le ligament jugal s'insère sur le bord supérieur du chaton cricoïdien."
+        },
+        {
+          "id": "q61",
+          "question": "",
+          "questionFr": "Les muscles de la corde vocale sont les thyro-aryténoidiens et crico-thyroidiens.\n1. La cavité laryngée est représentée à sa partie supérieure par les ventricules et la glotte.\n2. Le nerf laryngé supérieur innerve tous les muscles du larynx.\n3. Le nerf laryngé inférieur est aussi appelé nerf récurrent.\n4. L'étage moyen (glottique) comprend les cordes vocales.",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2)",
+            "(1,3)",
+            "(1,4)",
+            "(3,4)",
+            "(1,2,4)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "العصب الحنجري السفلي يسمى أيضاً بالعصب الراجع، والطبقة المتوسطة (المزمارية) تحتوي الحبال الصوتية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le nerf laryngé inférieur est aussi appelé nerf récurrent / L'étage glottique comprend les cordes vocales (plis vocaux)."
+        },
+        {
+          "id": "q70",
+          "question": "",
+          "questionFr": "Concernant le larynx :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Il ferme le passage entre le pharynx et les voies respiratoires inférieures au cours de la déglutition",
+            "Il est situé à la partie antérieure et moyenne du cou, à la hauteur des vertèbres cervicales C4, C5 et C6",
+            "Il est composé de trois étages : sus-glottique, glottique et sous glottique",
+            "La face antéro-interne des cartilages aryténoïdes donne insertion aux cordes vocales inférieures",
+            "Toutes les réponses sont justes."
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "جميع العبارات المذكورة صحيحة ومطابقة لتشريح الحنجرة ومستوياتها ووظائفها.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le larynx est un organe médian situé en regard de C4, C5, C6... Il comprend 3 étages: sus-glottique, glottique, sous-glottique... Il assure la protection des voies aériennes lors de la déglutition."
+        },
+        {
+          "id": "q71",
+          "question": "",
+          "questionFr": "Concernant le larynx :\n1. Il possède trois rôles physiologiques\n2. Il possède uniquement un squelette cartilagineux, et des articulations.\n3. Il est composé de trois cartilages impairs,thyroïde, épiglotte et cricoïde\n4. Les cartilages cuneiforms de Wrisberg sont constants",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2)",
+            "(1,3)",
+            "(1,4)",
+            "(3,4)",
+            "(1,2,4)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "للحنجرة 3 أدوار وظيفية (التنفس، التصويت، وحماية الطرق الهوائية) وتحتوي على 3 غضاريف مفردة أساسية (الدرقي، المزماري، والحلقي).",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le larynx a 3 rôles physiologiques (respiration, phonation, protection)... Squelette composé de 3 cartilages impairs : thyroïde, cricoïde et épiglotte."
+        },
+        {
+          "id": "q90",
+          "question": "",
+          "questionFr": "Concernant le larynx :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Les plis vocaux limitent la glotte.",
+            "Les plis vestibulaires sont blancs nacrés, et renferment le muscle vocale.",
+            "Les muscles abducteurs permettent la phonation",
+            "Le nerf laryngé inférieur innerve tous les muscles du larynx.",
+            "L'articulation crico -aryténoïdienne permet les mouvements de rotation et de glissement."
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "الطيات الصوتية (Plis vocaux) تحدد الشق المزماري (La glotte).",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Les plis vocaux limitent la glotte."
+        },
+        {
+          "id": "q92",
+          "question": "",
+          "questionFr": "Concernant la ou les réponses justes : Concernant le larynx ; il entre en rapport latéralement avec :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "L'hypopharynx",
+            "L'os hyoïde",
+            "Le nerf vague",
+            "La veine jugulaire interne",
+            "Les lobes de la glande thyroïde"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "تتجاور الحنجرة جانبياً مع فصوص الغدة الدرقية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Rapports latéraux du larynx : Répond aux lobes de la glande thyroïde."
+        },
+        {
+          "id": "q105",
+          "question": "",
+          "questionFr": "L'épiglotte :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "L'épiglotte est reliée au cartilage thyroïde, à l'os hyoïde, aux aryténoïdes et à la base du cartilage cricoïde.",
+            "Le larynx a une face antérieure recouverte de muqueuse.",
+            "Le larynx inférieur est situé à la hauteur des vertèbres cervicales C4, C5 et C6.",
+            "Le bord inférieur du cartilage thyroïde donne insertion à la membrane thyroïdienne.",
+            "Le chaton cricoïdien par sa face postérieure donne insertion aux muscles crico-thyroidiens postérieurs"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "لسان المزمار يرتبط ببنيات ورباطات مفصلية بالغضروف الدرقي والعظم اللامي والغضاريف الأريتينويدية وقاعدة الغضروف الحلقي.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "L'épiglotte est reliée par différentes structures au cartilage thyroïde, à l'os hyoïde, aux aryténoïdes et au cricoïde."
+        },
+        {
+          "id": "q106",
+          "question": "",
+          "questionFr": "L'appareil laryngé :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Les muscles crico-thyroidien, inter-aryténoïdien et le crico-aryténoïdien latéral sont tous pairs.",
+            "L'étage sus-glottique ou vestibule laryngé, présente une fente sagittale limitée par les 2 cordes vocales",
+            "L'artère laryngée inférieure, naît de la thyroïdienne inférieure.",
+            "Les articulations intrinsèques du larynx, sont au nombre de trois, la crico-thyroidienne, les cricoaryténoïdiennes et les arycorniculés",
+            "L'innervation de la trachée est assurée par les 2 nerfs phréniques"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 2,
+          "explanation": "الشريان الحنجري السفلي ينشأ كفرع من الشريان الدرقي السفلي.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "L'artère laryngée inférieure naît de l'artère thyroïdienne inférieure."
+        },
+        {
+          "id": "q109",
+          "question": "",
+          "questionFr": "Le pharynx :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Est un carrefour aérodigestif",
+            "Fait partie des voies aériennes inférieures",
+            "Peut être divisé en deux étages",
+            "Son étage supérieur est appelé l'hypopharynx",
+            "Son étage moyen est appelé le nasopharynx"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "البلعوم يمثل مفترق طرق تنفسي وهضمي مشترك بين المجرى الهوائي والأنبوب الهضمي.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le pharynx est un carrefour aéro-digestif."
+        },
+        {
+          "id": "q129",
+          "question": "",
+          "questionFr": "Larynx :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Ligament thyro-hyoïdien",
+            "Cartilage cuneiforme.",
+            "Cartilage aryténoïde.",
+            "Arc du cartilage cricoïde",
+            "Titre : vue antérieure"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "القوس الحلقي (L'arc cricoïdien) يمثل الجزء الأمامي للغضروف الحلقي في المخطط.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "L'arc cricoïdien forme la partie antérieure du cartilage cricoïde."
+        },
+        {
+          "id": "q130",
+          "question": "",
+          "questionFr": "Le larynx :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Le larynx possède un squelette ostéo-cartilagineux, et des articulations.",
+            "Le larynx est situé, en regard des vertèbres cervicales C4, C5 et C6.",
+            "Il existe trois cartilages impairs : aryténoïdes, corniculés et cunéiformes",
+            "L'épiglotte est reliée par différentes structures au cartilage thyroïde, à l'os hyoïde, cricoïde et à la base de langue.",
+            "Les muscles crico-aryténoïdiens postérieurs sont constricteurs"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "الحنجرة تتوضع في الجزء الأمامي من الرقبة مقابل الفقرات العنقية C4 و C5 و C6.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le larynx est situé à la partie antérieure du cou en regard des vertèbres cervicales C4, C5, C6."
+        }
+      ]
+    },
+    {
+      "id": "lesson9",
+      "title": "",
+      "titleFr": "La trachée",
+      "titleEn": "",
+      "questions": [
+        {
+          "id": "q19",
+          "question": "",
+          "questionFr": "La trachée :\n1. La division trachéale est projetée sur le côté droit du rachis\n2. Le muscle trachéal est placé en avant de la lame transversale\n3. Le losange de la trachéotomie est délimité par les bords médiaux des muscles omo-hyoïdiens dans son triangle supérieur\n4. La trachée thoracique répond à la veine brachio-céphalique droite à droite\n5. Les veines trachéales se jettent dans les veines œsophagiennes",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2,4)",
+            "(1,3,5)",
+            "(1,2)",
+            "(1,2,5)",
+            "(2,3,5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "التفرع الرغامي يرتسم على الجانب الأيمن للعمود الفقري، والعضلة الرغامية تقع أمام الصفيحة المعترضة، والأوردة الرغامية تصب في الأوردة المريئية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "La bifurcation trachéale se projette sur le côté droit du rachis / les veines trachéales se jettent dans les veines œsophagiennes."
+        },
+        {
+          "id": "q36",
+          "question": "",
+          "questionFr": "La trachée :\n1. Fait suite au larynx au bord inférieur du cartilage thyroïde\n2. Est profonde au niveau de sa division\n3. La membrane fibro-élastique unit les cartilages et forme en arrière la lame transverse\n4. La trachée thoracique répond au nerf récurrent droit à droite\n5. Le drainage veineux se fait dans les veines thyroïdiennes inférieures",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(2,3,5)",
+            "(1,2,5)",
+            "(2,4,5)",
+            "(1,2,3)",
+            "(3,4,5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "الرغامي عميقة عند مستوى تفرعها، والغشاء الليفي المرن يشكل في الخلف الصفيحة المعترضة، والنزح الوريدي يتم عبر الأوردة الدرقية السفلية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "La trachée est profonde au niveau de sa division / la membrane fibro-élastique forme en arrière la lame transverse / le drainage veineux se fait dans les veines thyroïdiennes inférieures."
+        },
+        {
+          "id": "q53",
+          "question": "",
+          "questionFr": "La trachée :\n1. Fait suite au pharynx au bord Inférieur du cartilage cricoïde\n2. Est profonde au niveau de sa division\n3. La trachée thoracique répond au nerf récurrent droit à droite\n4. Le drainage veineux se fait dans les veines thyroïdiennes inférieures",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2)",
+            "(2,4)",
+            "(1,3)",
+            "(1,4)",
+            "(2,3)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "الرغامي تكون عميقة عند مستوى تفرعها الشعبي، ونزحها الوريدي يتم عبر الأوردة الدرقية السفلية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "La trachée est profonde au niveau de sa division / le drainage veineux se fait dans les veines thyroïdiennes inférieures."
+        },
+        {
+          "id": "q67",
+          "question": "",
+          "questionFr": "La trachée :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Fait suite au larynx au bord inférieur du cartilage thyroïde",
+            "Est superficielle au niveau de sa division",
+            "Se termine dans le thorax en regard du disque vertébral T4-T5",
+            "Sa face postérieure est cartilagineuse",
+            "Les artères proviennent des artères thyroïdiennes supérieures"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 2,
+          "explanation": "الرغامي تنتهي في الصدر عند مستوى القرص بين الفقري T4-T5 بالتفرع إلى القصبات الرئيسية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "La trachée se termine dans le thorax en regard du disque vertébral T4-T5 par bifurcation en deux bronches principales."
+        },
+        {
+          "id": "q77",
+          "question": "",
+          "questionFr": "Concernant la trachée:",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Elle déborde l'œsophage à gauche dans la gaine viscérale du cou.",
+            "Sa division est projetée sur le côté droit du rachis.",
+            "La zone d'élection de la trachéotomie est située au-dessus de l'isthme thyroïdien.",
+            "L'isthme thyroïdien adhère aux 6 premiers cartilages trachéaux.",
+            "La veine brachio-céphalique gauche est située en avant de la trachée thoracique."
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "التفرع الرغامي يرتسم على الجانب الأيمن للعمود الفقري.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "La bifurcation trachéale se projette sur le côté droit du rachis."
+        }
+      ]
+    },
+    {
+      "id": "lesson10",
+      "title": "",
+      "titleFr": "Anatomie des poumons",
+      "titleEn": "",
+      "questions": [
+        {
+          "id": "q4",
+          "question": "",
+          "questionFr": "Les poumons :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "La face médiale du poumon est moulée sur le thorax osseux",
+            "La division pulmonaire n'est pas parallèle à la division bronchique",
+            "Le lobule pulmonaire est un ensemble d'alvéoles qui dépendent d'une même bronchiole terminale",
+            "Le poumon droit est divisé en 2 lobes par une scissure inter-lobaire",
+            "Le lobe inférieur du poumon gauche comprend 3 segments"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 2,
+          "explanation": "الفصيص الرئوي هو الوحدة الوظيفية للتنفس المكونة من مجموعة أسناخ تتبع لقصيبة طرفية واحدة.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le lobule pulmonaire est l'unité fonctionnelle respiratoire, formé par un ensemble d'alvéoles qui dépendent d'une même bronchiole terminale."
+        },
+        {
+          "id": "q20",
+          "question": "",
+          "questionFr": "Les bronches segmentaires droites :\n1. 2 est la bronche ventrale\n2. 5 est la bronche caudale\n3. 6 est la bronche de Nelson\n4. 8 est la bronche baso-dorsale\n5. 9 est la bronche baso-latérale",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(3,5)",
+            "(1,3)",
+            "(2,3,5)",
+            "(1,2,3)",
+            "(1,2,4)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "القصبة رقم 6 هي قصبة نيلسون (Segment de Nelson / Fowler)، والقصبة رقم 9 هي القصبة القاعية الجانبية (baso-latérale).",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 12,
+          "lessonQuote": "S6: segment apical du lobe inférieur ou segment de Nelson (Fowler) / S9: segment baso-latéral."
+        },
+        {
+          "id": "q21",
+          "question": "",
+          "questionFr": "Les poumons :\n1. Le sommet dépasse l'orifice supérieur du thorax\n2. Le lobe moyen du poumon droit occupe la partie antéro-inférieure du poumon\n3. Les veines lobulaires suivent le même trajet que les artères lobulaires\n4. La face médiastinale du poumon gauche répond au sillon du tronc artériel brachio-céphalique",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2,3)",
+            "(2,3)",
+            "(1,2)",
+            "(2,4)",
+            "(1,2,4)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 2,
+          "explanation": "قمة الرئة تتجاوز الفتحة العلوية للصدر، والفص المتوسط للرئة اليمنى يحتل الجزء الأمامي السفلي للرئة.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 5,
+          "lessonQuote": "Sommet : Arrondi, dépasse l'orifice supérieur du thorax / Lobe moyen : occupe la partie antéro-inférieure du poumon droit."
+        },
+        {
+          "id": "q22",
+          "question": "",
+          "questionFr": "La plèvre :\n1. Le feuillet viscéral s'enfonce dans les scissures\n2. Le dôme pleural représente le feuillet viscéral qui tapisse le sommet du poumon\n3. Le cul de sac costo-diaphragmatique est inférieur et médial\n4. Le cul de sac costo-médiastinal antérieur est rétro-sternal",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,3)",
+            "(3,4)",
+            "(2,4)",
+            "(1,4)",
+            "(1,2)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "الصفيحة الحشوية للجنبة تنغمد داخل الشقوق بين الفصية، والجيب الضلعي المنصفي الأمامي (Récessus rétro-sternal) يمتد خلف القص.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 20,
+          "lessonQuote": "Le feuillet viscéral tapisse le poumon et s'enfonce dans les scissures / Cul de sac costo-médiastinal antérieur: s'étend de haut en bas, en arrière du sternum (récessus rétro-sternal)."
+        },
+        {
+          "id": "q43",
+          "question": "",
+          "questionFr": "A propos du poumon gauche :\n1. Le lobe inférieur occupe la partie antéro-inférieure\n2. Le lobe inférieur est moins volumineux que celui du poumon droit\n3. Le lobe inférieur est plus volumineux que celui du poumon droit\n4. Le pédoncule fonctionnel comprend les bronches segmentaires et l'artère pulmonaire\n5. Le pédoncule fonctionnel comprend les veines pulmonaires",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(2,4)",
+            "(1,4)",
+            "(1,3)",
+            "(3,5)",
+            "(1,5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "الفص السفلي للرئة اليسرى أكثر حجماً من الفص السفلي للرئة اليمنى، والسويقة الوظيفية تضم الأوعية الرئوية والشعب الهوائية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le pédoncule fonctionnel comprend l'artère pulmonaire, les veines pulmonaires et les bronches."
+        },
+        {
+          "id": "q62",
+          "question": "",
+          "questionFr": "Les poumons :\n1. Le lobule pulmonaire est l'unité fonctionnelle respiratoire.\n2. La scissure oblique droite est visible uniquement sur la face latérale.\n3. L'empreinte de la veine azygos est située au-dessus du hile droit.\n4. Le segment 4 du lobe droit est visible sur toutes les faces du lobe droit.",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2)",
+            "(1,3)",
+            "(1,4)",
+            "(3,4)",
+            "(1,2,4)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "الفصيص الرئوي هو الوحدة الوظيفية التنفسية، وانطباع قوس وريد الأزيجوس يقع فوق السرة الرئوية اليمنى.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 8,
+          "lessonQuote": "Le lobule pulmonaire est l'unité fonctionnelle respiratoire / Au dessus du hile droit: Empreinte de la crosse azygos."
+        },
+        {
+          "id": "q68",
+          "question": "",
+          "questionFr": "Les poumons :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Le bord inférieur délimite la base du poumon",
+            "La scissure oblique droite sépare le lobe supérieur du moyen",
+            "Le lobe supérieur du poumon gauche comprend trois segments",
+            "La vascularisation nutritive est assurée par les vaisseaux pulmonaires",
+            "Sont innervés par les nerfs phréniques"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "الحد السفلي للرئة يحيط بقاعدة الرئة الحجابية التي تستند على الحجاب الحاجز.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le bord inférieur délimite la base du poumon qui repose sur le diaphragme."
+        },
+        {
+          "id": "q76",
+          "question": "",
+          "questionFr": "Concernant la face médiastinale du poumon droit:",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Le sillon du segment horizontal de la crosse de l'aorte.",
+            "Le sillon de l'artère sub-clavière droite.",
+            "La dépression cardiaque.",
+            "Le sillon de l'aorte thoracique descendante.",
+            "Sillon de l'artère brachio-céphalique."
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 2,
+          "explanation": "الوجه المنصفي للرئة اليمنى يبدي انطباعاً قلبياً (Empreinte/dépression cardiaque) أسفل وأمام السرة الرئوية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 8,
+          "lessonQuote": "Face médiastinale du poumon droit: En bas et en avant du hile se trouve l'empreinte cardiaque."
+        },
+        {
+          "id": "q80",
+          "question": "",
+          "questionFr": "Concernant la plèvre.",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Sa ligne de réflexion forme au-dessus du pédicule; le ligament triangulaire du poumon.",
+            "Son feuillet pariétal présente trois segments.",
+            "Le cul de sac costo-médiastinal antérieur s'étend d'avant en arrière.",
+            "Le cul de sac médiastino-diaphragmatique est un cul de sac inférieur et médial.",
+            "Le cul de sac costo-diaphragmatiques s'étend de haut en bas, en arrière du sternum."
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "الجيب المنصفي الحجابي (Récessus médiastino-diaphragmatique) هو جيب سفلي وإنسي.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le récessus médiastino-diaphragmatique est un cul-de-sac pleural inférieur et médial."
+        },
+        {
+          "id": "q113",
+          "question": "",
+          "questionFr": "Le poumon droit :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Est moins volumineux que le poumon gauche",
+            "Est parcouru par une seule scissure",
+            "Est divisé en deux lobes",
+            "Présente le hile pulmonaire sur sa face médiale",
+            "Sa face médiale est costale"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "السرة الرئوية (Hile pulmonaire) تتوضع على الوجه الإنسي المنصفي للرئة.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 8,
+          "lessonQuote": "Face médiale ou médiastinale présente le hile pulmonaire."
+        },
+        {
+          "id": "q126",
+          "question": "",
+          "questionFr": "Le schémas ci-dessous :\n1. Titre : Face médiale du poumon gauche\n2. Sillon du tronc artériel brachio-céphalique\n3. Sillon de l'aorte thoracique\n4. Empreinte de l'atrium gauche\n5. Scissure horizontale",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(3-4)",
+            "(1-3)",
+            "(2-4)",
+            "(1-2-5)",
+            "(1-4)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "يمثل المخطط الوجه الإنسي للرئة اليسرى (1) ويظهر عليه ثلم الأبهر الصدري (3).",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 9,
+          "lessonQuote": "Face médiale du poumon gauche : présente le sillon de l'aorte thoracique (arc et aorte descendante)."
+        }
+      ]
+    },
+    {
+      "id": "lesson11",
+      "title": "",
+      "titleFr": "Le diaphragme et les nerfs phréniques",
+      "titleEn": "",
+      "questions": [
+        {
+          "id": "q5",
+          "question": "",
+          "questionFr": "Le diaphragme :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Est formé de deux coupoles symétriques",
+            "Le hiatus aortique est traversé par l'aorte et les nerfs vagues",
+            "A l'inspiration la coupole droite répond au 4ème espace intercostal",
+            "Est irrigué par les artères phréniques supérieures et inférieures",
+            "Son innervation sensitive est assurée par les nerfs phréniques"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "يتغذى الحجاب الحاجز شريانياً بواسطة الشرايين الحجابية العلوية (من الأبهر الصدري) والسفلية (من الأبهر البطني).",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 11,
+          "lessonQuote": "3- Les artères phréniques supérieures: branches de l'aorte thoracique ; 4- Les artères phréniques inférieures: branches de l'aorte abdominale."
+        },
+        {
+          "id": "q23",
+          "question": "",
+          "questionFr": "Le diaphragme et le nerf phrénique :\n1. Le pilier gauche est plus épais que le droit\n2. Le hiatus œsophagien se projette sur T10\n3. Le foramen de la veine cave inférieure est aménagé dans le centre phrénique\n4. Le péricarde adhère à la foliole ventrale\n5. Le nerf phrénique descend dans le médiastin moyen",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2,3)",
+            "(2,3,4)",
+            "(3,4,5)",
+            "(2,4,5)",
+            "(1,2,4)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "الفتحة المريئية ترتسم عند T10، وفتحة الوريد الأجوف السفلي تقع في المركز الحجابي، والتامور يلتصق بالورقة الأمامية/البطنية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le hiatus œsophagien se projette en regard de T10 / Le foramen de la veine cave inférieure est perforé dans le centre phrénique / Le péricarde adhère à la foliole ventrale (antérieure)."
+        },
+        {
+          "id": "q37",
+          "question": "",
+          "questionFr": "Le schémas ci-dessous :\n1. Foliole dorsale\n2. Orifice de la veine cave inférieure\n3. Hiatus œsophagien\n4. Foliole droite\n5. Triangle ilio-costal",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(2,4)",
+            "(1,2)",
+            "(4,5)",
+            "(3,5)",
+            "(2,3)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "في مخطط الحجاب الحاجز، الرقم 2 يشير لفتحة الوريد الأجوف السفلي والرقم 4 يشير للورقة اليمنى للمركز الحجابي.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le foramen de la veine cave inférieure est situé au niveau de la foliole droite du centre phrénique."
+        },
+        {
+          "id": "q54",
+          "question": "",
+          "questionFr": "Le diaphragme :\n1. La coupole gauche est moins élevée que la droite\n2. A l'inspiration la coupole droite répond au 6ème espace intercostal\n3. Le hiatus aortique est traversé par l'aorte et les nerfs vagues\n4. Est irrigué par les artères thoraciques internes\n5. Le centre phrénique à la forme d'une feuille de trèfle à 4 folioles",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2,5)",
+            "(1,2,3)",
+            "(1,4,5)",
+            "(2,3,4)",
+            "(1,2,4)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "القبة الحجابية اليسرى أخفض من اليمنى، وفي الشهيق تنزل القبة اليمنى إلى مستوى المسافة بين الضلعية السادسة، والشريان الصدري الداخلي يشارك في تروية الحجاب الحاجز.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "La coupole gauche est moins élevée que la droite / A l'inspiration la coupole droite descend au niveau du 6ème espace intercostal / Irrigation artérielle assurée aussi par les branches de l'artère thoracique interne."
+        },
+        {
+          "id": "q55",
+          "question": "",
+          "questionFr": "Le nerf phrénique :\n1. Est une branche terminale du plexus brachial\n2. Nait par la fusion des racines des nerfs cervicaux C2,C3 et C4\n3. S'insinue dans la veine et l'artère subclavière\n4. Descend dans le médiastin antérieur",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,4)",
+            "(2,3)",
+            "(3,4)",
+            "(1,3)",
+            "(2,4)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 2,
+          "explanation": "العصب الحجابي يدخل بين الشريان والوريد تحت الترقوة وينزل ضمن المنصف الأمامي.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 15,
+          "lessonQuote": "Le nerf phrénique passe entre l'artère et la veine subclavière / descend dans le médiastin antérieur."
+        },
+        {
+          "id": "q69",
+          "question": "",
+          "questionFr": "Le diaphragme :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Les deux coupoles sont symétriques",
+            "Le hiatus aortique est traversé par l'aorte et les nerfs vagues",
+            "Le triangle lombo-costal se trouve entre les parties vertébrale et costale",
+            "Sa face abdominale n'est pas péritonisée",
+            "Sa vascularisation artérielle est riche"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "الحجاب الحاجز يمتلك تروية شريانية غنية وغزيرة تتأمن عبر شرايين متعددة (حجابية علوية وسفلية وفروع الشريان الصدري الداخلي).",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "La vascularisation artérielle du diaphragme est très riche, assurée par les artères phréniques supérieures, inférieures et les branches de la thoracique interne."
+        },
+        {
+          "id": "q96",
+          "question": "",
+          "questionFr": "Cocher la réponse juste : concernant le diaphragme :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "A l'inspiration la coupole gauche répond au 6ème espace intercostal",
+            "Le hiatus œsophagien se projette sur T12",
+            "Le ligament arqué médial unit le corps de L1 à son processus transverse",
+            "Le triangle lombo-costal est un orifice entre les parties costale et lombaire",
+            "Dans sa face thoracique la foliole ventrale répond au péricarde"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "الورقة الأمامية/البطنية للمركز الحجابي تجاور التامور وتلتصق به من جهة الصدر.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "La foliole ventrale du centre phrénique répond à la face inférieure du péricarde."
+        },
+        {
+          "id": "q97",
+          "question": "",
+          "questionFr": "Concernant le nerf phrénique :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Branche terminale du plexus brachial",
+            "Moteur pour la plèvre et le diaphragme",
+            "Descend dans le médiastin moyen",
+            "Passe entre la veine et l'artère sub-clavière",
+            "Il se divise au dessous du diaphragme"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "العصب الحجابي يدخل بين الشريان والوريد تحت الترقوة.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 15,
+          "lessonQuote": "Le nerf phrénique passe entre la veine et l'artère sub-clavière."
+        },
+        {
+          "id": "q102",
+          "question": "",
+          "questionFr": "Le diaphragme :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Les deux coupoles sont symétriques",
+            "Le ligament arqué latéral appartient à la portion vertébrale",
+            "La foliole droite répond au péricarde",
+            "Le hiatus œsophagien est traversé par les nerfs vagues droit et gauche",
+            "Le triangle lombo-costal se trouve entre les parties vertébrale et costale"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "الفتحة المريئية للحجاب الحاجز (Hiatus œsophagien) يعبرها المريء إضافة إلى العصبين المبهمين الأيمن والأيسر.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 8,
+          "lessonQuote": "Le hiatus œsophagien laisse passer l'œsophage et les deux nerfs vagues (droit et gauche)."
+        },
+        {
+          "id": "q103",
+          "question": "",
+          "questionFr": "Les schémas ci-dessous :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Artère subclavière gauche",
+            "Artère thoracique interne",
+            "Veines intercostales",
+            "Veine cave inférieur",
+            "Titre : les veines du diaphragme"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "الشريان الصدري الداخلي (Artère thoracique interne) يصدر فروعاً تروي الحجاب الحاجز والتامور.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 11,
+          "lessonQuote": "Irrigation artérielle assurée par les branches de l'artère thoracique interne."
+        },
+        {
+          "id": "q115",
+          "question": "",
+          "questionFr": "Toutes les réponses sont justes sauf une, laquelle ?:",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Le diaphragme est muscle expiratoire",
+            "Le diaphragme est un muscle inspiratoire principal",
+            "La plèvre est une double séreuse qui enveloppe le poumon",
+            "Les muscles intercostaux sont des muscles respiratoires accessoires"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "العبارة A خاطئة لأن الحجاب الحاجز هو عضلة شهيقية رئيسية وليس عضلة زفيرية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 3,
+          "lessonQuote": "Le diaphragme est un muscle inspiratoire essentiel (principal)."
+        },
+        {
+          "id": "q124",
+          "question": "",
+          "questionFr": "Le diaphragme :\n1. La coupole droite est plus élevée que la gauche\n2. A l'inspiration la coupole répond au 6ème espace intercostal\n3. Le hiatus aortique est traversé par l'aorte et les nerfs vagues\n4. Est irrigué par les artères thoraciques internes\n5. Son innervation sensitive est assurée par les nerfs phréniques",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1-4-5)",
+            "(1-2-3)",
+            "(1-4-5)",
+            "(2-4)",
+            "(1-2-4)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "القبة اليمنى أعلى من اليسرى (1)، وفي الشهيق تنزل لمستوى المسافة بين الضلعية السادسة (2)، وتتغذى من الشرايين الصدرية الداخلية (4).",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "La coupole droite est plus élevée / A l'inspiration descend au 6ème espace intercostal / Irrigué par les branches de l'artère thoracique interne."
+        }
+      ]
+    },
+    {
+      "id": "lesson12",
+      "title": "",
+      "titleFr": "Le médiastin",
+      "titleEn": "",
+      "questions": [
+        {
+          "id": "q6",
+          "question": "",
+          "questionFr": "Cocher la réponse juste :\n1. Le segment descendant de la crosse de l'aorte marque son empreinte sur la trachée.\n2. Trois troncs vasculaires émergent du cœur dans l'étage supérieur du médiastin antérieur\n3. La crosse de l'aorte monte contre le flanc droit de l'artère pulmonaire, et passe dans le médiastin postérieur.\n4. Le médiastin postérieur est organisé autour de l'aorte descendante qui en constitue l'axe vertical.\n5. Le médiastin postérieur contient le canal thoracique qui est au contact de la face postérieure de l'œsophage.",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2,3)",
+            "(2,3,4)",
+            "(1,4,5)",
+            "(2,3,5)",
+            "(3,4,5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 2,
+          "explanation": "العبارات (1، 4، 5) صحيحة تشريحياً فيما يخص انطباع قوس الأبهر ومكونات المنصف الخلفي.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le canal thoracique au contact de la face postérieure de l'œsophage dans l'étage supérieur du médiastin / le segment descendant de la crosse de l'aorte marque son empreinte sur la trachée."
+        },
+        {
+          "id": "q7",
+          "question": "",
+          "questionFr": "Cocher la réponse juste :\n1. Les veines intercostales droites sont drainées par la grande veine azygos\n2. La grande veine azygos monte dans le médiastin en enjambant la bronche souche droite\n3. La coupe niveau T4 passe par les deux crosses, aortique et azygos, enjambant les bronches souches\n4. Le segment descendant de la crosse de l'aorte marque son empreinte sur la trachée\n5. Le muscle thyro-aryténoïdien n'est visible que sur une coupe sagittale du larynx",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2,4)",
+            "(1,2,3)",
+            "(2,4,5)",
+            "(2,3,5)",
+            "(1,4,5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "العبارات 1 و 2 و 3 صحيحة، وتدعمها مقاطع الدروس الخاصة بالجهاز الوريدي ومستويات مقاطع المنصف عند T4.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 22,
+          "lessonQuote": "Coupe niveau T4 Passe par les deux crosses, aortique et azygos, enjambant les bronches souches."
+        },
+        {
+          "id": "q26",
+          "question": "",
+          "questionFr": "Concernant le médiastin supérieur, quelle(s) structure(s) y trouve-t-on ?",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "La trachée",
+            "La crosse de l'aorte",
+            "Les veines brachiocéphaliques et la veine cave supérieure",
+            "Les nerfs vague et phrénique",
+            "Toutes les réponses sont correctes"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "جميع البنيات المذكورة تعبر وتتوضع في المنصف العلوي.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 15,
+          "lessonQuote": "Le médiastin supérieur contient la trachée, l'œsophage, la crosse de l'aorte et ses branches, la VCS, les VBC, et les nerfs vagues et phréniques."
+        },
+        {
+          "id": "q27",
+          "question": "",
+          "questionFr": "À propos du médiastin :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Le niveau de la division trachéale permet de diviser le médiastin en un médiastin antérieur et un médiastin postérieur",
+            "La crosse de la veine azygos surcroise la bronche souche gauche et passe du médiastin postérieur au médiastin antérieur",
+            "La crosse de l'aorte surcroise la bronche souche droite et passe du médiastin postérieur au médiastin antérieur",
+            "La crosse de l'aorte surcroise la bronche souche gauche et passe du médiastin antérieur au médiastin postérieur",
+            "Toutes les réponses sont fausses"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "قوس الأبهر يتجاوز القصبة الرئيسية اليسرى منتقلاً من المنصف الأمامي إلى المنصف الخلفي.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 18,
+          "lessonQuote": "La crosse de l'aorte enjambe la bronche souche gauche en passant du médiastin antérieur au médiastin postérieur."
+        },
+        {
+          "id": "q42",
+          "question": "",
+          "questionFr": "Le schéma ci-joint :\n1. Correspond à une vue antérieure du médiastin postérieur\n2. Correspond à une vue postérieure du médiastin postérieur\n3. Nerf vague gauche\n4. Nerf vague droit\n5. Conduit thoracique",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(2,3)",
+            "(2,4)",
+            "(1,4)",
+            "(3,5)",
+            "(1,5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "المخطط يمثل منظراً أمامياً للمنصف الخلفي ويظهر فيه القناة الصدرية.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Schéma : Vue antérieure du médiastin postérieur montrant l'œsophage, l'aorte et le conduit thoracique."
+        },
+        {
+          "id": "q44",
+          "question": "",
+          "questionFr": "Au niveau du médiastin postérieur :\n1. Le nerf vague droit chemine sur la face antérieure de l'œsophage\n2. Le nerf vague gauche chemine sur la face antérieure de l'œsophage\n3. Le nerf vague gauche chemine sur la face postérieure de l'œsophage\n4. Le nerf grand splanchnique se détache du nerf laryngé récurrent\n5. L'aorte thoracique y pénètre à hauteur de la quatrième vertèbre thoracique",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,5)",
+            "(2,4)",
+            "(2,5)",
+            "(3,4)",
+            "(1,4)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 2,
+          "explanation": "العصب المبهم الأيسر يمر على الوجه الأمامي للمريء، والأبهر الصدري يدخل المنصف الخلفي عند T4.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 24,
+          "lessonQuote": "Le nerf vague gauche chemine sur la face antérieure de l'œsophage / L'aorte thoracique pénètre dans le médiastin postérieur à hauteur de T4."
+        },
+        {
+          "id": "q63",
+          "question": "",
+          "questionFr": "La coupe de t3 montre le passage de la crosse aortique.\n1. La coupe au niveau de t4 montre la veine cave supérieure et la terminaison de la veine azygos.\n2. Le médiastin postérieur est occupé principalement par des formations vasculaires.\n3. Les 2 nerfs phréniques descendent sur les bords latéraux de l'œsophage thoracique.",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2)",
+            "(1,3)",
+            "(1,4)",
+            "(3,4)",
+            "(2,3)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "المقطع عند T4 يظهر الوريد الأجوف العلوي وانتهاء وريد الأزيجوس (قوس الأزيجوس)، والمنصف الخلفي تشغله بنيات وعائية رئيسية كالأبهر النازل ونظام الأزيجوس.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 22,
+          "lessonQuote": "La coupe T4 montre la veine cave supérieure et la terminaison de la veine azygos (crosse)."
+        },
+        {
+          "id": "q72",
+          "question": "",
+          "questionFr": "Concernant le médiastin :\n1. Région centrale de la cavité thoracique située entre les deux cavités pleuro-pulmonaires, contenant tous les viscères thoraciques sauf les poumons.\n2. Le médiastin supérieur est séparé du médiastin inférieur par un plan horizontal passant par la carène, l'arc aortique et l'espace T4-T5.\n3. Le médiastin moyen contient essentiellement l'œsophage, l'aorte descendante et le canal thoracique.\n4. La crosse azygos droite et la crosse aortique gauche encadrent la bifurcation trachéale.\n5. Le médiastin postérieur est organisé autour de l'œsophage qui constitue son axe vertical principal.",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2,4)",
+            "(1,3,5)",
+            "(2,4,5)",
+            "(1,2,5)",
+            "(3,4,5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "العبارات 1 و 2 و 4 صحيحة تشريحياً بخصوص حدود المنصف وتقسيماته والأقواس الوعائية المحيطة بالتفرع الرغامي.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le médiastin est la région centrale du thorax contenant tous les viscères sauf les poumons / Séparé par un plan horizontal passant par T4-T5/carène / Les 2 crosses (aortique et azygos) encadrent la bifurcation trachéale."
+        },
+        {
+          "id": "q78",
+          "question": "",
+          "questionFr": "Concernant les bronches:",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "La bronche souche gauche à un trajet presque vertical.",
+            "La bronche souche droite est en rapport avec l'œsophage en arrière.",
+            "La bronche lobaire supérieure gauche se divise en bronches segmentaires apicale, dorsale et ventrale.",
+            "La bronche souche gauche est oblique en bas, à droite et en arrière.",
+            "En haut, la bronche souche gauche est en rapport avec l'arc aortique."
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 4,
+          "explanation": "القصبة الرئيسية اليسرى تتجاور في الأعلى مع قوس الأبهر الذي يعلوها.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "En haut, la bronche souche gauche est surcroisée par l'arc aortique (crosse de l'aorte)."
+        },
+        {
+          "id": "q84",
+          "question": "",
+          "questionFr": "Concernant la ou les réponses justes:",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Le médiastin antérieur situé en avant du plan passant par la face antérieure de la trachée.",
+            "Le médiastin postérieur contient le canal thoracique est au contact de la face postérieure de l'œsophage.",
+            "Les veines intercostales gauches sont drainées par la grande veine azygos.",
+            "Le pneumogastrique descend dans le médiastin entre la crosse aortique et l'artère pulmonaire.",
+            "Une Coupe niveau T4 passe par les deux crosses, aortique et azygos."
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 1,
+          "explanation": "القناة الصدرية تعبر المنصف الخلفي وتكون ملاصقة للوجه الخلفي للمريء.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le médiastin postérieur contient le canal thoracique qui est au contact de la face postérieure de l'œsophage."
+        },
+        {
+          "id": "q86",
+          "question": "",
+          "questionFr": "Concernant la ou les réponses justes :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Au niveau de T8, Le médiastin postérieur est occupé principalement par des formations vasculaires.",
+            "La coupe T5 passe par les branches collatérales de la crosse aortique.",
+            "Le nerf pneumogastrique droit à la hauteur de la bifurcation du tronc artériel brachio céphalique donne le nerf récurrent droit.",
+            "La grande veine azygos est le confluent du réseau veineux pariétal droit.",
+            "Le canal thoracique se termine dans le confluent qui réunit la veine jugulaire interne, et la veine sub-clavière droite."
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 2,
+          "explanation": "العصب المبهم الأيمن يعطي العصب الحنجري الراجع الأيمن عند مستوى تفرع الجذع الشرياني العضدي الرأسي.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le nerf récurrent droit naît du nerf vague droit à la hauteur du tronc artériel brachio-céphalique."
+        },
+        {
+          "id": "q108",
+          "question": "",
+          "questionFr": "Le médiastin :",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "Le canal thoracique est au contact de la face postérieure de l'œsophage dans l'étage inférieur du médiastin.",
+            "La grande veine azygos croise le pneumogastrique gauche au niveau de la bifurcation trachéale.",
+            "Le nerf pneumogastrique droit rejoint la face antérieure de la trachée et",
+            "Le médiastin antérieur est situé en avant du plan passant par la face antérieure de la trachée et contenant essentiellement le cœur et gros vaisseaux.",
+            "Coupe niveau T4 passe par la partie moyenne les hiles pulmonaires livrant passage aux bronches souches"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 3,
+          "explanation": "المنصف الأمامي يقع أمام المستوى المار بالجدار الأمامي للرغامي ويحتوي أساساً القلب والأوعية الكبيرة.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 9,
+          "lessonQuote": "Médiastin Antérieur : situé en avant du plan passant par la face antérieure de la trachée. Contient : Thymus, Cœur, Péricarde, Gros vaisseaux."
+        },
+        {
+          "id": "q132",
+          "question": "",
+          "questionFr": "Le médiastin :\n1. Le segment descendant de la crosse de l'aorte marque son empreinte sur la trachée.\n2. Trois troncs vasculaires émergent du cœur dans l'étage supérieur du médiastin antérieur\n3. La crosse de l'aorte monte contre le flanc droit de l'artère pulmonaire, et passe dans le médiastin postérieur.\n4. Le médiastin postérieur est organisé autour de l'aorte descendante qui en constitue l'axe vertical.\n5. Le médiastin postérieur contient le canal thoracique qui est au contact de la face postérieure de l'œsophage.",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2,3)",
+            "(2,3,4)",
+            "(1,4,5)",
+            "(2,3,5)",
+            "(3,4,5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 2,
+          "explanation": "العبارات 1 و 4 و 5 صحيحة تشريحياً وتصف انطباع الأبهر ومكونات المنصف الخلفي.",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": null,
+          "lessonQuote": "Le segment descendant de la crosse marque son empreinte sur la trachée / Le médiastin postérieur est organisé autour de l'aorte descendante / Le canal thoracique au contact de la face postérieure de l'œsophage."
+        },
+        {
+          "id": "q133",
+          "question": "",
+          "questionFr": "Le médiastin :\n1. Les veines intercostales droites sont drainées par la grande veine azygos.\n2. La grande veine azygos monte dans le médiastin en enjambant la bronche souche droite.\n3. La coupe niveau T4 passe par les deux crosses, aortique et azygos, enjambant les bronches souches.\n4. La coupe T5 passe par la trachée thoracique.\n5. La coupe au niveau T8 passe par les bronches souches.",
+          "questionEn": "",
+          "options": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "optionsFr": [
+            "(1,2,3)",
+            "(2,3,4)",
+            "(1,3,5)",
+            "(2,4,5)",
+            "(1,4,5)"
+          ],
+          "optionsEn": [
+            "",
+            "",
+            "",
+            "",
+            ""
+          ],
+          "correctIndex": 0,
+          "explanation": "الأوردة بين الضلعية اليمنى تنزح في وريد الأزيجوس (1)، ووريد الأزيجوس يعلو القصبة الرئيسية اليمنى (2)، والمقطع T4 يمر بقوسي الأبهر والأزيجوس (3).",
+          "explanationFr": "",
+          "explanationEn": "",
+          "wrongExplanations": null,
+          "pageNumber": 22,
+          "lessonQuote": "Coupe T4 passe par les deux crosses, aortique et azygos, enjambant les bronches souches."
+        }
+      ]
+    }
+  ]
+}

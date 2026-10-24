@@ -1,0 +1,21 @@
+{
+  "id": "./",
+  "name": "Heart Question Bank",
+  "short_name": "Heart QB",
+  "description": "Anatomy question bank – Heart Unit. Practice, exam simulation, spaced repetition and flashcards, available offline.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "background_color": "#140006",
+  "theme_color": "#8B0000",
+  "lang": "ar",
+  "dir": "auto",
+  "categories": ["education", "medical"],
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" },
+    { "src": "icons/favicon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any" }
+  ]
+}

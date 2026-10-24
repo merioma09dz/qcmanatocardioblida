@@ -1,0 +1,247 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <meta name="theme-color" content="#8B0000" />
+  <title>🫀 Anatomy Question Bank – Heart Unit</title>
+
+  <!-- PWA (Phase 6) -->
+  <link rel="manifest" href="manifest.json" />
+  <link rel="icon" type="image/svg+xml" href="icons/favicon.svg" />
+  <link rel="apple-touch-icon" href="icons/apple-touch-icon.png" />
+  <meta name="mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-capable" content="yes" />
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent" />
+  <meta name="apple-mobile-web-app-title" content="Heart QB" />
+
+  <!-- Apply the saved language (direction + lang) before the first paint -->
+  <script>
+    (function () {
+      try {
+        var l = localStorage.getItem('heartUnit.lang');
+        if (l === 'fr' || l === 'en' || l === 'ar') {
+          var h = document.documentElement;
+          h.lang = l;
+          h.dir = l === 'ar' ? 'rtl' : 'ltr';
+        }
+      } catch (e) { /* ignore */ }
+    })();
+  </script>
+
+  <!-- Fonts -->
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@400;600;700;900&family=Poppins:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css" />
+
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body>
+
+  <!-- ===== Animated background ===== -->
+  <div class="bg-layer" aria-hidden="true">
+    <div class="bg-glow bg-glow--1"></div>
+    <div class="bg-glow bg-glow--2"></div>
+
+    <!-- Animated ECG heartbeat -->
+    <svg class="ecg" viewBox="0 0 1200 200" preserveAspectRatio="none" xmlns="http://www.w3.org/2000/svg">
+      <defs>
+        <linearGradient id="ecgGrad" x1="0" y1="0" x2="1" y2="0">
+          <stop offset="0%" stop-color="#C41E3A" stop-opacity="0" />
+          <stop offset="50%" stop-color="#FF4757" />
+          <stop offset="100%" stop-color="#FFD700" stop-opacity="0.9" />
+        </linearGradient>
+        <filter id="ecgGlow" x="-20%" y="-50%" width="140%" height="200%">
+          <feGaussianBlur stdDeviation="3" result="blur" />
+          <feMerge>
+            <feMergeNode in="blur" />
+            <feMergeNode in="SourceGraphic" />
+          </feMerge>
+        </filter>
+      </defs>
+      <!-- faint static line -->
+      <path class="ecg-base"
+        d="M0,100 L120,100 L150,100 L170,70 L190,100 L230,100 L250,118 L270,15 L295,185 L315,100 L360,100 L400,78 L440,100 L600,100
+           L720,100 L750,100 L770,70 L790,100 L830,100 L850,118 L870,15 L895,185 L915,100 L960,100 L1000,78 L1040,100 L1200,100" />
+      <!-- moving glowing segment -->
+      <path class="ecg-pulse" pathLength="1000" filter="url(#ecgGlow)" stroke="url(#ecgGrad)"
+        d="M0,100 L120,100 L150,100 L170,70 L190,100 L230,100 L250,118 L270,15 L295,185 L315,100 L360,100 L400,78 L440,100 L600,100
+           L720,100 L750,100 L770,70 L790,100 L830,100 L850,118 L870,15 L895,185 L915,100 L960,100 L1000,78 L1040,100 L1200,100" />
+    </svg>
+
+    <!-- Floating particles (filled by app.js) -->
+    <div class="particles" id="particles"></div>
+    <div class="vignette"></div>
+  </div>
+
+  <!-- ===== Navbar ===== -->
+  <header class="navbar" id="navbar">
+    <a href="#" class="logo" id="logoLink" aria-label="Heart Unit">
+      <span class="logo-icon"><i class="fa-solid fa-heart-pulse"></i></span>
+      <span class="logo-text">
+        <strong>Cardio<span class="gold">Anat</span></strong>
+        <small data-i18n="logoSub">Heart Unit</small>
+      </span>
+    </a>
+
+    <nav class="nav-actions">
+      <button class="nav-btn" id="btnReview" type="button">
+        <i class="fa-solid fa-repeat"></i>
+        <span data-i18n="reviewBtn">Review</span>
+        <b class="nav-badge" id="reviewBadge" hidden>0</b>
+      </button>
+      <button class="nav-btn" id="btnWrong" type="button">
+        <i class="fa-solid fa-circle-xmark"></i>
+        <span data-i18n="wrongQuestions">Wrong Questions</span>
+      </button>
+      <button class="nav-btn" id="btnFlash" type="button">
+        <i class="fa-solid fa-clone"></i>
+        <span data-i18n="flashcards">Flashcards</span>
+      </button>
+
+      <button class="nav-btn nav-btn--offline" id="btnOffline" type="button" data-i18n-title="offlineTip" title="Download the site so it works without internet">
+        <i class="fa-solid fa-download"></i>
+        <span data-i18n="offlineBtn">Download for Offline Use</span>
+      </button>
+
+      <button class="nav-btn" id="btnSettings" type="button">
+        <i class="fa-solid fa-gear"></i>
+        <span data-i18n="settings">Settings</span>
+      </button>
+
+      <div class="lang-toggle" role="group" aria-label="Language">
+        <button type="button" class="lang-btn" data-lang="fr">FR</button>
+        <button type="button" class="lang-btn" data-lang="en">EN</button>
+        <button type="button" class="lang-btn" data-lang="ar">AR</button>
+        <span class="lang-thumb" aria-hidden="true"></span>
+      </div>
+    </nav>
+  </header>
+
+  <!-- ===== Home view ===== -->
+  <main class="container" id="homeView">
+
+    <!-- Hero -->
+    <section class="hero">
+      <h1 class="title">
+        <span class="title-heart" aria-hidden="true">🫀</span>
+        <span class="title-text" data-i18n="title">Anatomy Question Bank – Heart Unit</span>
+      </h1>
+      <p class="subtitle" data-i18n="subtitle">Master the anatomy of the heart, one lesson at a time</p>
+      <div class="divider" aria-hidden="true">
+        <span></span><i class="fa-solid fa-heart"></i><span></span>
+      </div>
+    </section>
+
+    <!-- Stats dashboard (Phase 7, filled by app.js) -->
+    <section class="stats-panel" id="statsPanel" aria-label="Stats"></section>
+
+    <!-- Lessons grid (filled by app.js from data.js) -->
+    <section class="grid" id="lessonsGrid" aria-label="Lessons"></section>
+
+    <!-- Special cards -->
+    <section class="special-row" id="specialRow" aria-label="Modes"></section>
+  </main>
+
+  <!-- ===== Quiz view (filled by app.js) ===== -->
+  <main class="quiz" id="quizView" hidden></main>
+
+  <!-- ===== Spaced-repetition dashboard (Phase 4, filled by app.js) ===== -->
+  <main class="quiz review-view" id="reviewView" hidden></main>
+
+  <!-- ===== Flashcards page (Phase 4, filled by app.js) ===== -->
+  <main class="quiz flash-view" id="flashView" hidden></main>
+
+  <!-- ===== Challenge mode (Phase 7, filled by app.js) ===== -->
+  <main class="quiz challenge-view" id="challengeView" hidden></main>
+
+  <footer class="footer">
+    <i class="fa-solid fa-heart"></i>
+    <span data-i18n="footer">Made for medical students</span>
+  </footer>
+
+  <!-- ===== "Show me the lesson" modal ===== -->
+  <div class="modal" id="lessonModal" role="dialog" aria-modal="true" aria-labelledby="modalTitle" hidden>
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-box">
+      <button type="button" class="modal-close" id="modalClose" data-close aria-label="Close">
+        <i class="fa-solid fa-xmark"></i>
+      </button>
+      <h3 id="modalTitle"><i class="fa-solid fa-book-open"></i> <span data-i18n="lessonRef">Lesson reference</span></h3>
+      <div class="modal-page" id="modalPageWrap">
+        <i class="fa-solid fa-bookmark" style="color: var(--gold)"></i>
+        <span data-i18n="page">Page</span>
+        <strong id="modalPage">—</strong>
+      </div>
+      <div id="modalQuoteWrap">
+        <p class="modal-label" data-i18n="quoteLabel">Excerpt from the lesson</p>
+        <blockquote class="modal-quote" id="modalQuote" dir="auto"></blockquote>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== Exam simulation intro modal (Phase 3) ===== -->
+  <div class="modal" id="examModal" role="dialog" aria-modal="true" aria-labelledby="examModalTitle" hidden>
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-box modal-box--exam">
+      <button type="button" class="modal-close" data-close aria-label="Close">
+        <i class="fa-solid fa-xmark"></i>
+      </button>
+      <h3 id="examModalTitle" data-i18n="examModalTitle">📝 Exam Simulation</h3>
+      <p class="exam-intro" data-i18n="examIntro">12 questions will be randomly selected — one from each lesson. Answer all, then press “Finish” to get your final score out of 12.</p>
+      <ul class="exam-rules">
+        <li><i class="fa-solid fa-eye-slash"></i><span data-i18n="examRule1">Correct answers stay hidden until the end.</span></li>
+        <li><i class="fa-solid fa-arrows-left-right"></i><span data-i18n="examRule2">You can go back and change an answer before finishing.</span></li>
+        <li><i class="fa-solid fa-floppy-disk"></i><span data-i18n="examRule3">Your score is saved to your history.</span></li>
+      </ul>
+      <div class="modal-actions">
+        <button type="button" class="nav-step" data-close><span data-i18n="cancel">Cancel</span></button>
+        <button type="button" class="nav-step primary" id="examStart"><i class="fa-solid fa-play"></i><span data-i18n="examStart">Start</span></button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== Settings modal (Phase 7) ===== -->
+  <div class="modal" id="settingsModal" role="dialog" aria-modal="true" aria-labelledby="settingsTitle" hidden>
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-box modal-box--exam">
+      <button type="button" class="modal-close" data-close aria-label="Close">
+        <i class="fa-solid fa-xmark"></i>
+      </button>
+      <h3 id="settingsTitle"><i class="fa-solid fa-gear"></i> <span data-i18n="settingsTitle">Settings</span></h3>
+      <h4 class="settings-sub" data-i18n="settingsDataTitle">Your data</h4>
+      <p class="exam-intro" data-i18n="settingsDataDesc">Progress, exam history, wrong questions, flashcards and notes are stored on this device only.</p>
+      <div class="modal-actions">
+        <button type="button" class="nav-step" data-close><span data-i18n="close">Close</span></button>
+        <button type="button" class="nav-step danger" id="btnReset"><i class="fa-solid fa-trash-can"></i><span data-i18n="resetBtn">Reset all data</span></button>
+      </div>
+    </div>
+  </div>
+
+  <!-- ===== Reset confirmation (Phase 7) ===== -->
+  <div class="modal" id="resetModal" role="alertdialog" aria-modal="true" aria-labelledby="resetTitle" hidden>
+    <div class="modal-backdrop" data-close></div>
+    <div class="modal-box modal-box--exam modal-box--danger">
+      <button type="button" class="modal-close" data-close aria-label="Close">
+        <i class="fa-solid fa-xmark"></i>
+      </button>
+      <h3 id="resetTitle"><i class="fa-solid fa-triangle-exclamation"></i> <span data-i18n="resetConfirmTitle">Reset everything?</span></h3>
+      <p class="exam-intro" data-i18n="resetConfirmText">This will permanently delete your progress, exam scores, wrong-question list, flashcards and annotations from this device. This cannot be undone.</p>
+      <div class="modal-actions">
+        <button type="button" class="nav-step" data-close><span data-i18n="cancel">Cancel</span></button>
+        <button type="button" class="nav-step danger" id="resetConfirm"><i class="fa-solid fa-trash-can"></i><span data-i18n="resetYes">Yes, delete everything</span></button>
+      </div>
+    </div>
+  </div>
+
+  <!-- Toast -->
+  <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+  <script src="translations.js"></script>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
